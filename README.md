@@ -12,3 +12,12 @@ Hello, World!
 こんにちは, 世界!
 
 ```
+
+
+- Pyladies Japanメンバーのみなさん
+    - forkして翻訳お願いします。 issueにやります宣言してもらえればそれで管理します。
+    - GitHubの使い方がわからないなど翻訳作業についてのあれこれは Pyladies Japan のSlack内 #handbook-translation へ！
+- PyLadies Japanスタッフのみなさん
+    - プルリクマージ係です(もちろん翻訳も大歓迎です)
+    - プルリクがきたら2名以上のLGTMをもってマージとしてください
+    - 何か不明点などあれば Pyladies JapanのSlack内 #handbook-translation へ
