@@ -1,0 +1,1 @@
+[http://kit.pyladies.com/en/latest/member/coc.html](http://kit.pyladies.com/en/latest/member/coc.html)

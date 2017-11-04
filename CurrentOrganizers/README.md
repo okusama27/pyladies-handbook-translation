@@ -1,0 +1,1 @@
+[http://kit.pyladies.com/en/latest/organizer/index.html](http://kit.pyladies.com/en/latest/organizer/index.html)
