@@ -94,3 +94,9 @@ PyLadiesには、[PyLadies Organizer Handbook](http://kit.pyladies.com/) とい�
 ## 決まり
 
 - 1つの訳に2つの **LGTM** がついたら、レビューボタンを押して、完了とします。
+
+
+## 参考資料
+
+- [翻訳作業って何をするの? — Elliptium](http://tink.elliptium.net/2017/02/27/actual_translation_work.html)
+- [(3日目) Sphinx の文書を翻訳してみよう (gettext機能) - Hack like a rolling stone](http://tk0miya.hatenablog.com/entry/20111203/p1)
