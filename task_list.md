@@ -2,17 +2,18 @@
 
 ## 翻訳すべきファイル
 
-- [ ] about.po
-- [ ] global.po
-- [ ] member.po
-- [ ] overview.po
-- [ ] changelog.po
-- [ ] index.po
-- [ ] misc.po
-- [ ] prospective.po
-- [ ] coc.po
 - [ ] intro.po
+- [ ] index.po
+- [ ] overview.po
+- [ ] about.po 同じ内容がoverview.poの中に含まれている
+- [ ] prospective.po
 - [ ] organizer.po
+- [ ] member.po
+- [ ] coc.po
+- [ ] global.po
+- [ ] misc.po
+- [ ] changelog.po
+
 
 ## htmlファイルの構造
 
