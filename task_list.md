@@ -1,6 +1,23 @@
-# ハンドブックの構造と進捗管理
+# 進捗管理
 
-ハンドブックの構造と進捗管理を行うファイルです。
+## 翻訳すべきファイル
+
+上から順に本家のページ順となります。
+
+- [ ] intro.po
+- [ ] index.po
+- [ ] overview.po
+- [ ] about.po 同じ内容がoverview.poの中に含まれている
+- [ ] prospective.po
+- [ ] organizer.po
+- [ ] member.po
+- [ ] coc.po
+- [ ] global.po
+- [ ] misc.po
+- [ ] changelog.po
+
+
+## htmlファイルの構造
 
 - [ ] [index.html](http://kit.pyladies.com/en/latest/index.html)
 - [ ] [overview.html](http://kit.pyladies.com/en/latest/overview.html)
