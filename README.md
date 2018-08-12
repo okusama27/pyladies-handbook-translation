@@ -12,30 +12,14 @@ PyLadiesには、[PyLadies Organizer Handbook](http://kit.pyladies.com/) とい�
 翻訳には、`docs.python.org` でも利用されている [transifex](https://www.transifex.com/) を利用します。
 
 ## 翻訳者になるには
-[PyLadies Japan Slack](https://pyladies-japan.slack.com/) の `#handbook-translation` 部屋で翻訳者に立候補してください。管理者が招待します。
+以下の手順で翻訳に参加します。
 
-翻訳とレビューができるユーザーとして招待します。
+- [transifex](https://www.transifex.com/) にアカウントを作成する
+- [PyLadies Japan Slack](https://pyladies-japan.slack.com/) の `#handbook-translation` 部屋で [transifex](https://www.transifex.com/) のアカウントを書き込んでください。
+
+**翻訳** と **レビュー** ができるユーザーとして招待します。
 
 不明なことは `#handbook-translation` 部屋で確認してください。
-
-## アカウントの登録
-管理者から [transifex](https://www.transifex.com/) への招待メールが来ます。
-
-メールのタイトルは「[管理者名] has invited you to join Transifex」です。「Accept Invitation」ボタンをクリックします。
-
-![user_invite_01](images/readme/user_invite_01.png)
-
-翻訳プロジェクト参加画面が表示されますので、ユーザー名、メールアドレス、パスワード、氏名（表示名）、言語「Japanese(ja)」を選択し、「アカウントを作成」をクリックします。
-
-![user_invite_02](images/readme/user_invite_02.png)
-
-- ここまでできたら、管理者が「承認」を行うまで待ちます。
-
-- `Your request to join the translation team 'pyladies-handbook-translation team' was accepted!` というタイトルのメールが来たら、「Start Translating」をクリックします。
-
-![user_invite_03](images/readme/user_invite_03.png)
-
-これで、翻訳に参加できます。
 
 ## 翻訳する
 
@@ -72,13 +56,15 @@ PyLadiesには、[PyLadies Organizer Handbook](http://kit.pyladies.com/) とい�
 
 ## 【管理者向け】翻訳者の追加方法
 
+**注意: 最初に個人のアカウントを作っておかないと、transifexに招待できないようです。**
+
 - Slackで依頼を貰ったら、[transifex](https://www.transifex.com/)にログインします。
 - ヘッダーの「チーム」を選択します。
 - 「協力者を招待」ボタンをクリックします。
 
 ![admin_invite_01](images/readme/admin_invite_01.png)
 
-- 協力者のメールアドレス、協力者の役割「翻訳者」、チーム名の選択「pyladies-handbook-translation team」、言語を選択「Japanese(ja)」を選択
+- 協力者のアカウント、協力者の役割「レビューアー」、チーム名の選択「pyladies-handbook-translation team」、言語を選択「Japanese(ja)」を選択
 - 「招待を送る」をクリックします。
 
 ![admin_invite_02](images/readme/admin_invite_02.png)
