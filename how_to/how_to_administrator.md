@@ -24,3 +24,13 @@
 
 ![admin_invite_04](images/readme/admin_invite_04.png)
 
+## transifexの利用方法
+[transifex](https://www.transifex.com/) を利用し、翻訳を行うための手順を記述します。
+
+### 本家の
+手元に [pyladies-kit](https://github.com/pyladies/pyladies-kit) 
+
+
+ここまでの流れは、 [(3日目) Sphinx の文書を翻訳してみよう (gettext機能) - Hack like a rolling stone](https://tk0miya.hatenablog.com/entry/20111203/p1) に殆ど書いてあります。
+概要は、 [翻訳作業って何をするの? — Elliptium](http://tink.elliptium.net/2017/02/27/actual_translation_work.html) にあります。
+
