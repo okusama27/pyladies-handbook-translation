@@ -11,9 +11,9 @@ PyLadiesには、[PyLadies Organizer Handbook](http://kit.pyladies.com/) とい�
 ## 方法
 翻訳には、`docs.python.org` でも利用されている [transifex](https://www.transifex.com/) を利用します。
 
-- [翻訳者になるには](how_to_be_translator.html)
-- [翻訳とレビュー](how_to_translate.html)
-- [管理者用情報](how_to_administrator.html)
+- [翻訳者になるには](how_to_be_translator.md)
+- [翻訳とレビュー](how_to_translate.md)
+- [管理者用情報](how_to_administrator.md)
 
 ## 参考資料
 
