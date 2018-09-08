@@ -9,20 +9,20 @@
 - ヘッダーの「チーム」を選択します。
 - 「協力者を招待」ボタンをクリックします。
 
-![admin_invite_01](images/readme/admin_invite_01.png)
+![admin_invite_01](../images/readme/admin_invite_01.png)
 
 - 協力者のアカウント、協力者の役割「レビューアー」、チーム名の選択「pyladies-handbook-translation team」、言語を選択「Japanese(ja)」を選択
 - 「招待を送る」をクリックします。
 
-![admin_invite_02](images/readme/admin_invite_02.png)
+![admin_invite_02](../images/readme/admin_invite_02.png)
 
 翻訳者がアカウントを登録すると、チーム概要画面に「承認待ちの参加申請」リンクが出るのでクリックします。
 
-![admin_invite_03](images/readme/admin_invite_03.png)
+![admin_invite_03](../images/readme/admin_invite_03.png)
 
 承認します。
 
-![admin_invite_04](images/readme/admin_invite_04.png)
+![admin_invite_04](../images/readme/admin_invite_04.png)
 
 ## transifexの利用方法
 [transifex](https://www.transifex.com/) を利用し、翻訳を行うための手順を記述します。
