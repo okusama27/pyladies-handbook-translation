@@ -44,7 +44,6 @@ conf.pyを書き換え（ファイルの最後に追加）
 
 ```python
 locale_dirs = ["locale"]
-gettext_compact = False
 language = "ja"
 ```
 
