@@ -1,0 +1,686 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2016, PyLadies
+# This file is distributed under the same license as the PyLadies Handbook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyLadies Handbook 2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-08 19:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../member/about.rst:4
+msgid "About PyLadies"
+msgstr ""
+
+#: ../../member/about.rst:7
+msgid ""
+"We are an international mentorship group with a focus on helping more "
+"women become active participants and leaders in the Python open-source "
+"community. Our mission is to promote, educate and advance a diverse "
+"Python community through outreach, education, conferences, events and "
+"social gatherings."
+msgstr ""
+
+#: ../../member/about.rst:9
+msgid ""
+"PyLadies also aims to provide a friendly support network for women and a "
+"bridge to the larger Python world. Anyone with an interest in Python is "
+"encouraged to participate!"
+msgstr ""
+
+#: ../../member/coc.rst:2
+msgid "PyLadies Code of Conduct"
+msgstr ""
+
+#: ../../member/coc.rst:4
+msgid ""
+"All PyLadies events (Meetups, conference lunches, etc), online spaces "
+"(IRC, Facebook, etc) are beholden to the PyLadies :ref:`coc`."
+msgstr ""
+
+#: ../../member/coc.rst:6
+msgid ""
+"Every PyLadies location is **required** to make :ref:`coc` public in some"
+" way.  For instance, PyLadies SF has a dedicated `page`_ on their Meetup "
+"space.  The ``#pyladies`` IRC channel on Freenode has a link to the `main"
+" website's`_ Code of Conduct in the topic of the channel."
+msgstr ""
+
+#: ../../member/coc.rst:8
+msgid ""
+"If you can not find the following Code of Coduct posted somewhere (e.g. "
+"wherever they post events), please reach out to your locations' "
+"organizers."
+msgstr ""
+
+#: ../../member/coc.rst:13
+msgid "Code of Conduct Policy"
+msgstr ""
+
+#: ../../member/coc.rst:15
+msgid ""
+"Pyladies is dedicated to providing a respectful, harassment-free "
+"community for everyone. We do not tolerate harassment or bullying of any "
+"community member in any form. This does not only extend to members to "
+"local PyLadies communities, but to anyone who chooses to become involved "
+"in the larger PyLadies community of users, developers and integrators "
+"through events or interactions."
+msgstr ""
+
+#: ../../member/coc.rst:17
+msgid ""
+"Harassment includes offensive verbal/electronic comments related to "
+"personal characteristics or choices, sexual images or comments in public "
+"or online spaces, deliberate intimidation, bullying, stalking, following,"
+" harassing photography or recording, sustained disruption of talks, IRC "
+"chats, electronic meetings, physical meetings or other events, "
+"inappropriate physical contact, or unwelcome sexual attention. "
+"Participants asked to stop any harassing or bullying behavior are "
+"expected to comply immediately."
+msgstr ""
+
+#: ../../member/coc.rst:19
+msgid ""
+"If a participant engages in harassing behavior, representatives of the "
+"community may take reasonable action they deem appropriate, including "
+"warning the offender, expulsion from any PyLadies event, or expulsion "
+"from mailing lists, IRC chats, discussion boards and other electronic "
+"communications channels to resolve the issue. This may include expulsion "
+"from PyLadies Meetup group membership."
+msgstr ""
+
+#: ../../member/coc.rst:21
+msgid ""
+"If you are being harassed, notice that someone else is being harassed, or"
+" have any other concerns, please act to intercede or ask for help from "
+"any member of the PyLadies community, IRC chat admins, website admins, or"
+" organizers/representatives of any physical events put on under the "
+"auspices of PyLadies."
+msgstr ""
+
+#: ../../member/coc.rst:23
+msgid ""
+"This Code of Conduct has been adapted from the `Plone Foundation`_ and is"
+" licensed under a Creative Commons Attribution-Share Alike 3.0 Unported "
+"`license`_."
+msgstr ""
+
+#: ../../member/index.rst:2
+msgid "Member Reference"
+msgstr ""
+
+#: ../../member/index.rst:9
+msgid "Joining PyLadies"
+msgstr ""
+
+#: ../../member/index.rst:11
+msgid ""
+"Want to join PyLadies? Fantastic!  But I hate to break it to you, you "
+"already are one ;-)."
+msgstr ""
+
+#: ../../member/index.rst:14
+msgid "Finding your local PyLadies"
+msgstr ""
+
+#: ../../member/index.rst:16
+msgid ""
+"We (try to) maintain a list of PyLadies `locations`_, but it may not be "
+"complete or up-to-date as every location is reponsible for updating & "
+"maintaining their location's information."
+msgstr ""
+
+#: ../../member/index.rst:20
+msgid ""
+"If you believe that there is a location not shown on our `locations`_ "
+"page, please feel free to ping the organizer (if you know them), `file an"
+" issue`_ or `submit a pull request`_ with the relevant information!"
+msgstr ""
+
+#: ../../member/index.rst:22
+msgid ""
+"Once you find your location, go ahead and join their Meetup.com group (if"
+" they have one), and join/follow any social media accounts they have."
+msgstr ""
+
+#: ../../member/index.rst:26
+msgid "Remote PyLadies"
+msgstr ""
+
+#: ../../member/index.rst:28
+msgid ""
+"We can't be everywhere.  But we're trying!  For those who do not have a "
+"PyLadies group within a reasonable distance (or even if you do!) we have "
+"an online PyLadies group called `Remote PyLadies`_!  Events are held by "
+"local organizers through online streaming/coding/etc tools and posted on "
+"the `Remote PyLadies`_ site."
+msgstr ""
+
+#: ../../member/index.rst:32
+msgid "Want to volunteer?"
+msgstr ""
+
+#: ../../member/index.rst:34
+msgid ""
+"Often times, our organizers - both local & remote - need help.  Whether "
+"it's mentorship for events, logistic help (e.g. a door woman).  Don't be "
+"shy in reaching out to them!  Their contact information *should* be "
+"listed on our `locations`_ page.  But if you're having trouble, please "
+"feel free to `ping us`_ for introductions."
+msgstr ""
+
+#: ../../member/index.rst:38
+msgid "Difficult Stuff"
+msgstr ""
+
+#: ../../member/index.rst:40
+msgid ""
+"While we all strive to be awesome, sh*t happens.  Please have a read of "
+"the following resources:"
+msgstr ""
+
+#: ../../member/reporting.rst:2
+msgid "Reporting Harassment"
+msgstr ""
+
+#: ../../member/reporting.rst:4
+msgid ""
+"People can be jerks.  Sh*t can happen.  PyLadies wants to provide a safe "
+"space for its members, so we've written this document to help those who "
+"experience harassment within the PyLadies community."
+msgstr ""
+
+#: ../../member/reporting.rst:8
+msgid ""
+"You are **not obligated** to report harassment that you've faced, or "
+"witnessed!  But we hope to provide mediums in which you feel comfortable "
+"doing so."
+msgstr ""
+
+#: ../../member/reporting.rst:12
+msgid "Who to Talk to"
+msgstr ""
+
+#: ../../member/reporting.rst:14
+msgid ""
+"If you've faced harassment or witness an event attendee or someone within"
+" a PyLadies chatroom, we encourage you to report what you saw to an "
+"organizer, chat operator, or whomever is in charge of the space.  For "
+"instance, if the incident was during a local PyLadies Meetup event, reach"
+" out to the organizer(s) of that specific event.  If the incident was "
+"within the ``#pyladies`` IRC channel, please privately message the "
+"operator of the channel, currently ``@roguelynn`` (a.k.a. `Lynn Root`_)."
+"  You can also hop into the ``#pyladies-support`` channel for \"live\" "
+"discussion too."
+msgstr ""
+
+#: ../../member/reporting.rst:16
+msgid ""
+"If you can not find whomever is in charge with the PyLadies space, do not"
+" feel comfortable talking to them, or you wish to report a leader: please"
+" feel welcome to `email us`_.  The following PyLadies organizers are "
+"behind the Code of Coduct contact:"
+msgstr ""
+
+#: ../../member/reporting.rst:18
+msgid "`Esther Nam`_ - Los Angeles"
+msgstr ""
+
+#: ../../member/reporting.rst:19
+msgid "`Lynn Root`_ - San Francisco"
+msgstr ""
+
+#: ../../member/reporting.rst:21
+msgid ""
+"If you are not comfortable with one or more of the leaders above, please "
+"feel welcome to reach out to an individual above that you are comfortable"
+" with."
+msgstr ""
+
+#: ../../member/reporting.rst:24
+msgid "Harasser has relationship with venue/sponsor"
+msgstr ""
+
+#: ../../member/reporting.rst:26
+msgid ""
+"If the harasser is an employee - or has an established relationship in "
+"some way - of the venue host or event sponsor, in addition to contacting "
+"a PyLadies leader above in some form, please feel empowered to reach out "
+"to the employer or whomever is responsible for the harasser."
+msgstr ""
+
+#: ../../member/reporting.rst:30
+msgid ""
+"The following is adapted from the `Geek Feminism Wiki`_ (such a great "
+"resource!)."
+msgstr ""
+
+#: ../../member/reporting.rst:33
+msgid "How to Report"
+msgstr ""
+
+#: ../../member/reporting.rst:35
+msgid "We suggest that your report have two key things:"
+msgstr ""
+
+#: ../../member/reporting.rst:37
+msgid "a clear description of the harassment"
+msgstr ""
+
+#: ../../member/reporting.rst:38
+msgid "a statement of what it is you want the contact to do about the harassment"
+msgstr ""
+
+#: ../../member/reporting.rst:40
+msgid ""
+"This makes it less likely that they will not understand, or pretend to "
+"not understand, that you want action taken. It also creates some evidence"
+" that they were asked to act, so that they cannot claim later that there "
+"was no specific thing they were supposed to do. Occasionally also someone"
+" is under specific instructions to not do anything about complaints "
+"without a specific call to action."
+msgstr ""
+
+#: ../../member/reporting.rst:42
+msgid "Other useful things to include:"
+msgstr ""
+
+#: ../../member/reporting.rst:44
+msgid ""
+"evidence, such as copies of harassing emails or letters, dates of phone "
+"calls or in-person actions"
+msgstr ""
+
+#: ../../member/reporting.rst:46
+msgid ""
+"You may wish to store both copies/records of harassing contact and of "
+"complaints you made."
+msgstr ""
+
+#: ../../member/reporting.rst:51
+msgid "Sample Written Report"
+msgstr ""
+
+#: ../../member/reporting.rst:53
+msgid "Dear ``<NAME>``,"
+msgstr ""
+
+#: ../../member/reporting.rst:55
+msgid ""
+"I wish to report that I was harassed by ``<NAME/EMAIL/HANDLE>``, who "
+"``<MANNER OF HARASSMENT>``. [Optional: This harassment has had ``<EFFECT "
+"ON ME>``.] Since you have ``<RELATIONSHIP WITH HARASSER>``, I request "
+"that you take the following action:"
+msgstr ""
+
+#: ../../member/reporting.rst:57
+msgid "``<LIST OF ACTIONS>``"
+msgstr ""
+
+#: ../../member/reporting.rst:59
+msgid ""
+"[Optional: I request that you treat this complaint in confidence and not "
+"reveal identifying information about me to ``<HARASSER>`` or ``<SOME "
+"OTHER PEOPLE>``.]"
+msgstr ""
+
+#: ../../member/reporting.rst:61
+msgid ""
+"[Optional: I have already separately reported this harassment to ``<OTHER"
+" AUTHORITY>`` and they have taken ``<ACTION>``.]"
+msgstr ""
+
+#: ../../member/reporting.rst:63
+msgid ""
+"[Optional: a fuller account of their harassment/emails with full headers "
+"follows.]"
+msgstr ""
+
+#: ../../member/reporting.rst:65
+msgid "``<YOUR NAME>``"
+msgstr ""
+
+#: ../../member/reporting.rst:69
+msgid "Example Actions to Request"
+msgstr ""
+
+#: ../../member/reporting.rst:71
+msgid ""
+"When reporting the incident, depending on your level of comfort and the "
+"level of severity, some example actions you may want to ask of us:"
+msgstr ""
+
+#: ../../member/reporting.rst:74
+msgid "Meetup/In person organzied event"
+msgstr ""
+
+#: ../../member/reporting.rst:76
+msgid "develop and enforce anti-harassment policy for your event"
+msgstr ""
+
+#: ../../member/reporting.rst:77 ../../member/reporting.rst:95
+msgid ""
+"confirm whether or not ``<HARASSER>``'s behaviour violates existing anti-"
+"harassment policy"
+msgstr ""
+
+#: ../../member/reporting.rst:78
+msgid "tell ``<HARASSER>`` to stop harassing people at this event"
+msgstr ""
+
+#: ../../member/reporting.rst:79
+msgid "ask ``<HARASSER>`` to cease attempting to interact with me at this event/"
+msgstr ""
+
+#: ../../member/reporting.rst:80
+msgid "record ``<HARASSER'S>`` behavior for monitoring"
+msgstr ""
+
+#: ../../member/reporting.rst:81
+msgid ""
+"remove ``<HARASSER>`` from their position among the event "
+"organizers/staff/volunteers"
+msgstr ""
+
+#: ../../member/reporting.rst:82
+msgid "ask ``<HARASSER>`` to leave the event"
+msgstr ""
+
+#: ../../member/reporting.rst:83
+msgid "ban ``<HARASSER>`` from future events"
+msgstr ""
+
+#: ../../member/reporting.rst:84 ../../member/reporting.rst:102
+#: ../../member/reporting.rst:129 ../../member/reporting.rst:142
+#: ../../member/reporting.rst:163 ../../member/reporting.rst:178
+msgid "assist me in referring ``<HARASSER>``'s actions to law enforcement"
+msgstr ""
+
+#: ../../member/reporting.rst:88
+msgid "Online services (IRC, forums, etc)"
+msgstr ""
+
+#: ../../member/reporting.rst:90
+msgid ""
+"PyLadies has an official IRC channel (``#pyladies`` on Freenode), a "
+"Reddit subreddit (`/r/pyladies`_), and a `Google+ community`_.  For "
+"those, you may contact the admin(s) or moderator(s) of such services, or "
+"reach out directly to us_.  There are many online groups that PyLadies "
+"organizers have for location-specific groups, in which contacting the "
+"admin(s)/moderator(s) or the contact email listed on our locations_ page "
+"may be best (you are still free to contact the `main email`_ as well!)"
+msgstr ""
+
+#: ../../member/reporting.rst:92
+msgid "Example actions:"
+msgstr ""
+
+#: ../../member/reporting.rst:94
+msgid "develop and enforce anti-harassment policy on your service"
+msgstr ""
+
+#: ../../member/reporting.rst:96 ../../member/reporting.rst:174
+msgid "tell ``<HARASSER>`` to stop using this service to harass people"
+msgstr ""
+
+#: ../../member/reporting.rst:97
+msgid ""
+"make ``<HARASSER>`` invisible to me, so that I cannot see their messages,"
+" whether public or private"
+msgstr ""
+
+#: ../../member/reporting.rst:98
+msgid "monitor ``<HARASSER>``'s postings for threats"
+msgstr ""
+
+#: ../../member/reporting.rst:99
+msgid ""
+"deregister/block ``<HARASSER>`` from using my part of this service, or "
+"give me instructions on how to do so (a particular forum or chat room, "
+"say)"
+msgstr ""
+
+#: ../../member/reporting.rst:100 ../../member/reporting.rst:176
+msgid "deregister/block ``<HARASSER>`` from using this service"
+msgstr ""
+
+#: ../../member/reporting.rst:101 ../../member/reporting.rst:177
+msgid ""
+"provide me/law enforcement with identifying information about "
+"``<HARASSER>``'s account"
+msgstr ""
+
+#: ../../member/reporting.rst:106
+msgid "Other Avenues"
+msgstr ""
+
+#: ../../member/reporting.rst:108
+msgid ""
+"PyLadies can only do so much, but there are other people and avenues to "
+"talk to where PyLadies may fall short.  We also encourage our leaders to "
+"reach out to our contacts (e.g. an event host) to work towards making a "
+"better environment for our event space."
+msgstr ""
+
+#: ../../member/reporting.rst:111
+msgid "Employer"
+msgstr ""
+
+#: ../../member/reporting.rst:113
+msgid ""
+"If the harrasser is an employee of a PyLadies venue host or sponsor, "
+"please feel comfortable in reaching out to their employer. You might "
+"consider reporting to the harasser's employer if:"
+msgstr ""
+
+#: ../../member/reporting.rst:115
+msgid ""
+"you are being harassed using company resources, such as from a work email"
+" address, fax machine or telephone number"
+msgstr ""
+
+#: ../../member/reporting.rst:116
+msgid ""
+"the harasser claims that their actions were encouraged by their employer,"
+" such as being a marketing ploy or a customer outreach activity"
+msgstr ""
+
+#: ../../member/reporting.rst:117
+msgid ""
+"you are being harassed by someone acting as a representative of their "
+"company, such as someone who is attending an event and wearing badges or "
+"distributing business cards with the company's name on it or soliciting "
+"business for the company"
+msgstr ""
+
+#: ../../member/reporting.rst:118
+msgid ""
+"you are being harassed privately by someone whose job requires them to "
+"maintain good public standing or who wields a great deal of authority in "
+"their job, such as an employee of a feminist organisation, a politician, "
+"a police officer, a doctor or a lawyer. For many professions you may be "
+"able to look up their professional ethics standard and find out if their "
+"behaviour outside of work is governed by their professional affiliation."
+msgstr ""
+
+#: ../../member/reporting.rst:120 ../../member/reporting.rst:136
+#: ../../member/reporting.rst:154
+msgid "Possible actions to request:"
+msgstr ""
+
+#: ../../member/reporting.rst:122 ../../member/reporting.rst:156
+msgid ""
+"tell me whether or not the actions of ``<HARASSER>`` were authorised or "
+"approved by your organisation"
+msgstr ""
+
+#: ../../member/reporting.rst:123
+msgid ""
+"confirm whether or not ``<COMPANY>`` has policy that prohibits "
+"``<HARASSER>``'s behavior"
+msgstr ""
+
+#: ../../member/reporting.rst:124 ../../member/reporting.rst:160
+msgid ""
+"confirm for me that you will speak with ``<HARASSER>`` and make it clear "
+"to them that their behaviour is unacceptable and must stop immediately"
+msgstr ""
+
+#: ../../member/reporting.rst:125
+msgid ""
+"immediately provide me with a new contact/account manager at "
+"``<COMPANY>``, as I cannot do business with ``<HARASSER>`` any longer"
+msgstr ""
+
+#: ../../member/reporting.rst:126
+msgid ""
+"terminate my account with ``<COMPANY>`` effective immediately (obviously,"
+" this will depend on contracts you have in place)"
+msgstr ""
+
+#: ../../member/reporting.rst:127
+msgid ""
+"do not allow ``<HARASSER>`` to represent ``<COMPANY>`` in this capacity "
+"again as ``<HARASSER>`` is harming your company's image"
+msgstr ""
+
+#: ../../member/reporting.rst:128
+msgid "re-consider ``<HARASSER>``'s employment with your company"
+msgstr ""
+
+#: ../../member/reporting.rst:132
+msgid "Professional Body"
+msgstr ""
+
+#: ../../member/reporting.rst:134
+msgid ""
+"This might be, for example, a medical registration board, or the bar "
+"organisation for lawyers. You might consider this if your harasser is an "
+"individual who has a professional membership that governs their private "
+"behaviour. You may possibly also do this if your harasser is about to "
+"join such a profession (eg. they are a medical student)."
+msgstr ""
+
+#: ../../member/reporting.rst:138
+msgid ""
+"confirm whether or not ``<HARASSER>``'s behaviour violates your ethical "
+"code"
+msgstr ""
+
+#: ../../member/reporting.rst:139
+msgid ""
+"confirm for me that you will sanction ``<HARASSER>`` according to your "
+"profession's standards (you might make specific reference to their ethics"
+" code if you have read them)"
+msgstr ""
+
+#: ../../member/reporting.rst:140
+msgid ""
+"open disciplinary proceedings against ``<HARASSER>`` to consider their "
+"deregistration from ``<PROFESSION>``"
+msgstr ""
+
+#: ../../member/reporting.rst:141
+msgid ""
+"do not allow ``<HARASSER>`` to register as a practising member of "
+"``<PROFESSION>``"
+msgstr ""
+
+#: ../../member/reporting.rst:145
+msgid "Educational Institution"
+msgstr ""
+
+#: ../../member/reporting.rst:147
+msgid ""
+"Much as in the case of an employer, in some circumstances you might "
+"choose not to involve an educational institution in a student's external "
+"activities. But again there are some circumstances where you might "
+"consider it:"
+msgstr ""
+
+#: ../../member/reporting.rst:149
+msgid ""
+"you are being harassed using institutional resources, such as a "
+"institutional email address, fax machine or telephone number"
+msgstr ""
+
+#: ../../member/reporting.rst:150
+msgid ""
+"the harasser claims that their actions were encouraged by their "
+"institution, such as claiming that the actions are part of a research "
+"study or project for assessment"
+msgstr ""
+
+#: ../../member/reporting.rst:151
+msgid ""
+"you are being harassed by someone acting as a representative of their "
+"institution, such as someone attending or speaking at a conference in "
+"their role as a researcher"
+msgstr ""
+
+#: ../../member/reporting.rst:157
+msgid ""
+"confirm whether or not ``<HARASSER>`` has ethics approval for this "
+"research [or assessment]"
+msgstr ""
+
+#: ../../member/reporting.rst:158
+msgid ""
+"give me the contact details of the project's chief investigator [or the "
+"course's teacher] and ``<INSTITUTION>``'s ethics review board so that I "
+"can ask that ``<HARASSER>``'s project be reviewed"
+msgstr ""
+
+#: ../../member/reporting.rst:159
+msgid ""
+"confirm whether or not ``<INSTITUTION>`` has policy that prohibits "
+"``<HARASSER>``'s behaviour"
+msgstr ""
+
+#: ../../member/reporting.rst:161
+msgid ""
+"do not allow ``<HARASSER>`` to represent ``<INSTITUTION>`` in this "
+"capacity again as ``<HARASSER>`` is harming your institution's image"
+msgstr ""
+
+#: ../../member/reporting.rst:162
+msgid "re-consider ``<HARASSER>``'s enrolment with your institution"
+msgstr ""
+
+#: ../../member/reporting.rst:166
+msgid "Internet Service Provider"
+msgstr ""
+
+#: ../../member/reporting.rst:168
+msgid ""
+"In the case where the harassment is occurring online service, you may be "
+"able to trace the harasser via email address or IP address to a "
+"particular ISP."
+msgstr ""
+
+#: ../../member/reporting.rst:170
+msgid ""
+"ISPs typically do not heavily police the actions of their users and may "
+"refuse to assist you unless law enforcement is also involved, but at the "
+"very least, you have a recorded complaint that may be useful if the "
+"person's behaviour is systemic."
+msgstr ""
+
+#: ../../member/reporting.rst:172
+msgid "Possible actions to request"
+msgstr ""
+
+#: ../../member/reporting.rst:175
+msgid "monitor ``<HARASSER>``'s Internet activity for threats"
+msgstr ""
+

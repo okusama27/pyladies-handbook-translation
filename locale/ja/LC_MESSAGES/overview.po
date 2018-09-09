@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2016, PyLadies
+# This file is distributed under the same license as the PyLadies Handbook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyLadies Handbook 2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-08 19:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../overview.rst:2
+msgid "Overview"
+msgstr ""
+
+#: ../../overview.rst:5
+msgid "About"
+msgstr ""
+
+#: ../../overview.rst:7
+msgid ""
+"We are an international mentorship group with a focus on helping more "
+"women become active participants and leaders in the Python open-source "
+"community. Our mission is to promote, educate and advance a diverse "
+"Python community through outreach, education, conferences, events and "
+"social gatherings."
+msgstr ""
+
+#: ../../overview.rst:9
+msgid ""
+"PyLadies also aims to provide a friendly support network for women and a "
+"bridge to the larger Python world. Anyone with an interest in Python is "
+"encouraged to participate!"
+msgstr ""
+
+#: ../../overview.rst:13
+msgid "How to Use this Kit"
+msgstr ""
+
+#: ../../overview.rst:15
+msgid ""
+"Copy our model (fork & contribute). Or fork and make it completely "
+"different. We don’t mind if you get creative!"
+msgstr ""
+
+#: ../../overview.rst:18
+msgid "Purpose"
+msgstr ""
+
+#: ../../overview.rst:20
+msgid "Their are a few purposes of this PyLadies kit:"
+msgstr ""
+
+#: ../../overview.rst:22
+msgid ""
+"To help those interested in :doc:`starting <prospective/index>` their own"
+" local PyLadies"
+msgstr ""
+
+#: ../../overview.rst:23
+msgid "To be a guide for :doc:`current local organizers <organizer/index>`"
+msgstr ""
+
+#: ../../overview.rst:24
+msgid "To be a guide for  :doc:`members <member/index>`"
+msgstr ""
+
+#: ../../overview.rst:26
+msgid ""
+"Currently, you can ``pip install pyladies`` (see :ref:`install`) with "
+"limited functionality.  But we plan on more awesome tools for the "
+"PyLadies package."
+msgstr ""
+
+#: ../../overview.rst:31
+msgid "pip install pyladies"
+msgstr ""
+
+#: ../../overview.rst:34
+msgid "Installation"
+msgstr ""
+
+#: ../../overview.rst:36
+msgid "pyladies can be easily installed using::"
+msgstr ""
+
+#: ../../overview.rst:42
+msgid "Usage"
+msgstr ""
+
+#: ../../overview.rst:44
+msgid "You can view the PyLadies docs by running::"
+msgstr ""
+
+#: ../../overview.rst:48
+msgid "It's pretty limited functionality.  But stay tuned for more"
+msgstr ""
+

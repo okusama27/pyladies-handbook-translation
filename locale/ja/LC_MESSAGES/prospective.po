@@ -1,0 +1,469 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2016, PyLadies
+# This file is distributed under the same license as the PyLadies Handbook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyLadies Handbook 2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-08 19:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../prospective/checklist.rst:4
+msgid "Checklist"
+msgstr ""
+
+#: ../../prospective/checklist.rst:6 ../../prospective/index.rst:66
+msgid ""
+"Here's all of what needs to be done to start a PyLadies group locally.  "
+"You may of course adapt this list to meet your group’s needs."
+msgstr ""
+
+#: ../../prospective/checklist.rst:8 ../../prospective/index.rst:68
+msgid "**PART 1**"
+msgstr ""
+
+#: ../../prospective/checklist.rst:20 ../../prospective/index.rst:72
+msgid ""
+"Once you have received a confirmation that the the initial PyLadies "
+"request form was approved and setup, continue on:"
+msgstr ""
+
+#: ../../prospective/checklist.rst:22 ../../prospective/index.rst:74
+msgid "**PART 2**"
+msgstr ""
+
+#: ../../prospective/faqs.rst:4
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../../prospective/faqs.rst:3 ../../prospective/faqs.rst:8
+msgid ""
+"This FAQs are specifically for prospective or new local PyLadies "
+"organizers.  If you are a member or just curious in learning more about "
+"PyLadies, check out the FAQs here: :doc:`../global/faqs`."
+msgstr ""
+
+#: ../../prospective/faqs.rst:6 ../../prospective/faqs.rst:11
+msgid "Can men attend local PyLadies group events?"
+msgstr ""
+
+#: ../../prospective/faqs.rst:8 ../../prospective/faqs.rst:13
+msgid ""
+"It’s up to you Generally, it’s good to hold women-only events as well as "
+"events for both genders (either women and +1 guests, or anyone who wants "
+"to attend). Just be aware that the dynamic of the room tends to change "
+"when the male:female ratio becomes lopsided."
+msgstr ""
+
+#: ../../prospective/faqs.rst:10 ../../prospective/faqs.rst:15
+msgid ""
+"A good way to hold a mixed-gender event is to partner with a local Python"
+" user group."
+msgstr ""
+
+#: ../../prospective/faqs.rst:14 ../../prospective/faqs.rst:19
+msgid ""
+"Be **extra-clear** in your event description about whether men are "
+"allowed/what the rules are -- it will save you a lot of time, and prevent"
+" awkward conversations."
+msgstr ""
+
+#: ../../prospective/faqs.rst:18 ../../prospective/faqs.rst:23
+msgid "Can I use the PyLadies logo and graphics for any purpose?"
+msgstr ""
+
+#: ../../prospective/faqs.rst:20 ../../prospective/faqs.rst:25
+msgid "Yes! But please read our :doc:`logo usage policy <../misc/logo>`."
+msgstr ""
+
+#: ../../prospective/faqs.rst:22 ../../prospective/faqs.rst:27
+msgid ""
+"TL;DR is that any of the graphics in our `PyLadies assets repo`_ can be "
+"used for your own group promotion and/or to show your support.  You may "
+"also alter the PyLadies Wordmark or PyLadies Geek logo to adapt it to "
+"your location. Check out examples on our `locations site "
+"<http://www.pyladies.com/locations>`_."
+msgstr ""
+
+#: ../../prospective/faqs.rst:24 ../../prospective/faqs.rst:29
+msgid ""
+"Logos used with the intention to sell merchandise, please seek permission"
+" from the `PyLadies leadership`_."
+msgstr ""
+
+#: ../../prospective/faqs.rst:26 ../../prospective/faqs.rst:31
+msgid ""
+"There is \"official\" merchandise sold - with proceeds going towards "
+"PyLadies - at our own `spreadshirt site`_."
+msgstr ""
+
+#: ../../prospective/faqs.rst:29 ../../prospective/faqs.rst:34
+msgid "Can transgender women be PyLadies?"
+msgstr ""
+
+#: ../../prospective/faqs.rst:31 ../../prospective/faqs.rst:36
+msgid ""
+"Anyone who considers herself a lady and does Python is a PyLady/Python "
+"lady. We support all women, whether female by birth or not."
+msgstr ""
+
+#: ../../prospective/faqs.rst:33 ../../prospective/faqs.rst:38
+msgid ""
+"We encourage you sure to make trans women feel welcome by saying so in "
+"your meetup group and event descriptions. Here is an example of a "
+"statement you could include:"
+msgstr ""
+
+#: ../../prospective/faqs.rst:35 ../../prospective/faqs.rst:40
+msgid ""
+"PyLadies [city] is welcoming to and respectful of trans women. We "
+"encourage all women to come out to our meetups."
+msgstr ""
+
+#: ../../prospective/faqs.rst:38 ../../prospective/faqs.rst:43
+msgid ""
+"If the idea of trans people is new to you, you might want to take a look "
+"at `this fantastic illustrated book about gender "
+"<http://www.thegenderbook.com>`_, `this comic "
+"<http://www.roostertailscomic.com/?p=1495>`_, or any of the many other "
+"introductions to trans issues on the internet."
+msgstr ""
+
+#: ../../prospective/faqs.rst:42 ../../prospective/faqs.rst:47
+msgid "How do I set up reimbursement for Meetup fees?"
+msgstr ""
+
+#: ../../prospective/faqs.rst:44 ../../prospective/faqs.rst:49
+msgid ""
+"The PSF will `most likely reimburse <psf-reimburse>`_ your Meetup.com "
+"organizer fees for a local Pyladies meetup. Please refer to the "
+":ref:`checklist <meetup>` for more info."
+msgstr ""
+
+#: ../../prospective/faqs.rst:48 ../../prospective/faqs.rst:53
+msgid "What if my question isn’t answered here?"
+msgstr ""
+
+#: ../../prospective/faqs.rst:50 ../../prospective/faqs.rst:55
+msgid ""
+"Ask in IRC #pyladies on `freenode <irc>`_ if you wish. But feel free to "
+"organize your PyLadies group however you wish, and make it completely "
+"your own. We’re here to help you, not to limit you or control your plans."
+msgstr ""
+
+#: ../../prospective/index.rst:2
+msgid "Prospective Organizers"
+msgstr ""
+
+#: ../../prospective/index.rst:4
+msgid "So you’ve decided to start your own PyLadies group – **YAY!**"
+msgstr ""
+
+#: ../../prospective/index.rst:6
+msgid ""
+"We’re excited to have people like you join our growing community and want"
+" to help you get your group launched as quickly and painlessly as "
+"possible. If our experience is any indication, your first major event "
+"will galvanize and inspire the Python community in your area and create "
+"momentum for subsequent events, so it’s crucial to start things off on "
+"the right foot!"
+msgstr ""
+
+#: ../../prospective/index.rst:8
+msgid ""
+"To help you get started, we’ve created this open-source kit for starting "
+"your own PyLadies group in your city. PyLadies is part social club, part "
+"stepping stone toward the Python open-source world."
+msgstr ""
+
+#: ../../prospective/index.rst:12
+msgid "Things to Think About"
+msgstr ""
+
+#: ../../prospective/index.rst:15
+msgid "Types of Local Groups"
+msgstr ""
+
+#: ../../prospective/index.rst:17
+msgid "A local group can be:"
+msgstr ""
+
+#: ../../prospective/index.rst:19
+msgid "a geographic group: for a city, region, state, or country"
+msgstr ""
+
+#: ../../prospective/index.rst:20
+msgid "a student group: for a university, college, or school"
+msgstr ""
+
+#: ../../prospective/index.rst:21
+msgid "an interest group: for any topic (e.g. PyGame, SciPy, Django)"
+msgstr ""
+
+#: ../../prospective/index.rst:23
+msgid ""
+"The larger the local group, the harder it is to meet in person. Large "
+"local group's events will be mostly virtual meetups that occur online, "
+"whereas small local group's events tend to be in-person meetups."
+msgstr ""
+
+#: ../../prospective/index.rst:25
+msgid ""
+"A local group can consist of sub-local-groups, making both the in-person "
+"and virtual meetups possible."
+msgstr ""
+
+#: ../../prospective/index.rst:28
+msgid "Group Size"
+msgstr ""
+
+#: ../../prospective/index.rst:30
+msgid ""
+"It’s fine if your local group is small. Having just 2-3 women who meet "
+"regularly to exchange Python tips and tricks counts as a local group. "
+"What matters most is *quality*, not quantity."
+msgstr ""
+
+#: ../../prospective/index.rst:32
+msgid ""
+"Larger local groups have more flexibility to organize different types of "
+"events, but it’s harder to get everyone together for dinner."
+msgstr ""
+
+#: ../../prospective/index.rst:36
+msgid "Event Frequency"
+msgstr ""
+
+#: ../../prospective/index.rst:38
+msgid ""
+"There are no formal requirements for how often a leader hold events.  "
+"However, we highly encourage that - at minimum, to try and hold one event"
+" a month.  This helps keep interest in PyLadies from flagging, and helps "
+"people maintain their progress in becoming better developers. You can "
+"hold more events with proper support and planning."
+msgstr ""
+
+#: ../../prospective/index.rst:40
+msgid ""
+"Suggestions for event types and event resources can be found under "
+":doc:`../organizer/eventhosting/ideas` and "
+":doc:`../organizer/eventhosting/resources/index`."
+msgstr ""
+
+#: ../../prospective/index.rst:43 ../../prospective/process.rst:4
+msgid "Process Overview"
+msgstr ""
+
+#: ../../prospective/index.rst:45 ../../prospective/process.rst:6
+msgid ""
+"Everything is listed in :doc:`checklist`, but an overview of the process "
+"is:"
+msgstr ""
+
+#: ../../prospective/index.rst:47 ../../prospective/process.rst:8
+msgid "Think about who you'd like to have help you, if you'd like."
+msgstr ""
+
+#: ../../prospective/index.rst:48 ../../prospective/process.rst:9
+msgid ""
+"Think about the name of the location.  For instance, do you want "
+"\"PyLadies of Super Awesome City\", or \"Super Awesome City PyLadies\", "
+"or \"SACPyLadies\"? We **highly** encourage to not choose a name that is "
+"the whole country or state, e.g. \"PyLadies of California\".  We do not "
+"want to discourage other women from starting a local PyLadies, say "
+"\"PyLadies of Santa Barbara\" when \"PyLadies of California\" is only "
+"focusing on the Bay Area."
+msgstr ""
+
+#: ../../prospective/index.rst:49 ../../prospective/process.rst:10
+msgid "Fill out the initial interest form (linked in the checklist)."
+msgstr ""
+
+#: ../../prospective/index.rst:50 ../../prospective/process.rst:11
+msgid ""
+"If you haven't heard from anyone within a week, please `ping us`_!  Once "
+"you do, you will be given a PyLadies email address, which is also your "
+"Google Apps account."
+msgstr ""
+
+#: ../../prospective/index.rst:51 ../../prospective/process.rst:12
+msgid ""
+"Sign up for ALL the things with your new PyLadies email address, like "
+"Meetup.com, Twitter, Facebook, or anything that's relevant to your "
+"location."
+msgstr ""
+
+#: ../../prospective/index.rst:52 ../../prospective/process.rst:13
+msgid ""
+"If you have signed up for Meetup, you may request reimbursement of fees "
+"paid from the Python Software Foundation.  Check out their `grant "
+"process`_ for more information, as well as a :doc:`../organizer/grants"
+"/sample-meetup-proposal`."
+msgstr ""
+
+#: ../../prospective/index.rst:53 ../../prospective/process.rst:14
+msgid ""
+"Think about how you want to setup your website (e.g. a static HTML/CSS/JS"
+" site, or a dynamic site with Django/Flask/etc).  More information in "
+":doc:`../organizer/website/local`"
+msgstr ""
+
+#: ../../prospective/index.rst:54 ../../prospective/process.rst:15
+msgid ""
+"Fill out the PyLadies resource form with all the new accounts (linked in "
+"the checklist)."
+msgstr ""
+
+#: ../../prospective/index.rst:55 ../../prospective/process.rst:16
+msgid "Start hosting events!"
+msgstr ""
+
+#: ../../prospective/index.rst:58
+msgid "DON'T GET AHEAD OF YOURSELF"
+msgstr ""
+
+#: ../../prospective/index.rst:60
+msgid ""
+"Please do *not* purchase domains or setup email addresses; we do that for"
+" you!  We need to maintain accounts (both for trademark and "
+"administrative purposes)."
+msgstr ""
+
+#: ../../prospective/index.rst:64
+msgid "Process Checklist"
+msgstr ""
+
+#: ../../prospective/index.rst:70
+msgid ""
+"Fill out the `initial PyLadies group interest form`_ to get your "
+"namespace setup for your group domain and email.  If you haven't heard "
+"anything within a week, please `ping us`_!"
+msgstr ""
+
+#: ../../prospective/index.rst:76
+msgid ""
+"With the new ``@pyladies.com`` email address, sign up for the following "
+"social media/communications accounts (if it makes sense for your local "
+"group):"
+msgstr ""
+
+#: ../../prospective/index.rst:78
+msgid "Twitter"
+msgstr ""
+
+#: ../../prospective/index.rst:79
+msgid "Facebook"
+msgstr ""
+
+#: ../../prospective/index.rst:80
+msgid "Google+"
+msgstr ""
+
+#: ../../prospective/index.rst:81
+msgid "GitHub"
+msgstr ""
+
+#: ../../prospective/index.rst:82
+msgid "IRC/Freenode"
+msgstr ""
+
+#: ../../prospective/index.rst:85
+msgid ""
+"Whether it's Meetup.com or another local event/community site, start the "
+"local group with the ``pyladies.com`` email address."
+msgstr ""
+
+#: ../../prospective/index.rst:89
+msgid ""
+"TIP!  Uber-frugal?  Get half-price Meetup fees!  Complete all of the "
+"Meetup forms, but stop when you reach the payment page. In 24 hours, you "
+"will receive an e-mail from Meetup.com, with a link to complete the "
+"payment process at half price. :)"
+msgstr ""
+
+#: ../../prospective/index.rst:94
+msgid ""
+"File for a reimbursement for Meetup fees to the Python Software "
+"Foundation by following `their grant process`_.  A sample grant request "
+"can be found :doc:`here <../organizer/grants/sample-meetup-proposal>`."
+msgstr ""
+
+#: ../../prospective/index.rst:98
+msgid ""
+"The Python Software Foundation will reimburse Meetup.com fees for "
+"PyLadies Meetup groups.  However, if your location does not use "
+"Meetup.com but a different/similar site that charges, **still file a "
+"reimbursement!**"
+msgstr ""
+
+#: ../../prospective/index.rst:100
+msgid ""
+"Sign up for a Heroku account with your ``pyladies.com`` email address.  "
+"This will be used to setup your website, which is documented at "
+":doc:`../organizer/website/local` once you're ready."
+msgstr ""
+
+#: ../../prospective/index.rst:102
+msgid ""
+"Fill out the `PyLadies resource form`_ for contact information, all group"
+" information, etc.  This is for administrative purposes (e.g. what social"
+" media accounts do we own, where should we send PyLadies stickers to, "
+"etc), and will not ever be shared outside of PyLadies."
+msgstr ""
+
+#: ../../prospective/index.rst:104
+msgid "Request to join the following mailing lists:"
+msgstr ""
+
+#: ../../prospective/index.rst:106
+msgid ""
+"`PyLadies Global Organizers list`_ - all global organizational "
+"communication and coordination is done via this list.  You'll be "
+"introduced to the mailing list."
+msgstr ""
+
+#: ../../prospective/index.rst:107
+msgid ""
+"`PyLadies Global Members list`_ - a global list for PyLadies (and PyGent "
+"allies) members. Feel free to introduce yourself and the new location."
+msgstr ""
+
+#: ../../prospective/index.rst:109
+msgid ""
+"If you're familiar with IRC, come hang out in the ``#pyladies`` channel "
+"on Freenode."
+msgstr ""
+
+#: ../../prospective/index.rst:111
+msgid ""
+"Plan your first event!  Check out :doc:`../organizer/neworganizer` for "
+"New Organizer information. Start promoting your new group via various "
+"local channels, including meetup.com, local PUGs, related groups, and "
+"universities, as well as the global PyLadies Members list!"
+msgstr ""
+
+#: ../../prospective/index.rst:115
+msgid "FAQs"
+msgstr ""
+
+#: ../../prospective/index.rst:121
+msgid "Questions & Contact"
+msgstr ""
+
+#: ../../prospective/index.rst:123
+msgid ""
+"If you have any questions or concerns about the process, `drop us an "
+"email <ping us>`_ or ping ``roguelynn`` or ``estherbester`` in the "
+"``#pyladies`` channel on Freenode!"
+msgstr ""
+

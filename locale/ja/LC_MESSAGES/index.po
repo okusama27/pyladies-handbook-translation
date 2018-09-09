@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2016, PyLadies
+# This file is distributed under the same license as the PyLadies Handbook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyLadies Handbook 2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-08 19:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../index.rst:2
+msgid "PyLadies Kit"
+msgstr ""
+
+#: ../../index.rst:4
+msgid "Release v\\ |version| (:doc:`What's new? <changelog>`)"
+msgstr ""
+
+#: ../../intro.rst:3
+msgid ""
+"The ``pyladies`` kit gets you up and running with starting a PyLadies "
+"local group, including what's needed, advice, event planning help, and "
+"some tools that may be helpful."
+msgstr ""
+
+#: ../../intro.rst:5
+msgid ""
+"The ``pyladies`` documentation is licensed under the `Creative Commons "
+"Attribution 3.0 Unported License`_.  The ``pyladies`` code is licensed "
+"under the `MIT License`_."
+msgstr ""
+
+#: ../../intro.rst:7
+msgid ""
+"The PyLadies wordmark and logo is trademarked, with the usage policy "
+"available here defined :doc:`misc/trademark`."
+msgstr ""
+
+#: ../../index.rst:11
+msgid "Intro"
+msgstr ""
+
+#: ../../index.rst:19
+msgid "Prospective Organizers"
+msgstr ""
+
+#: ../../index.rst:21
+msgid "Everything you need to start your own PyLadies location!"
+msgstr ""
+
+#: ../../index.rst:30
+msgid "Current Organizers"
+msgstr ""
+
+#: ../../index.rst:38
+msgid "PyLadies Members"
+msgstr ""
+
+#: ../../index.rst:47
+msgid "Global Organization"
+msgstr ""
+
+#: ../../index.rst:56
+msgid "Misc"
+msgstr ""
+

@@ -1,0 +1,3943 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2016, PyLadies
+# This file is distributed under the same license as the PyLadies Handbook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyLadies Handbook 2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-08 19:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../organizer/admin/handover.rst:2
+msgid "Handover"
+msgstr ""
+
+#: ../../organizer/admin/handover.rst:5
+#: ../../organizer/eventhosting/grants.rst:4 ../../organizer/global/pycon.rst:5
+msgid "TODO"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:4
+msgid "Resources for dealing with volunteer burnout"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:6
+msgid ""
+"Organizing a PyLadies group is *hard* work, and often under-appreciated. "
+"Here are some ways to recognize the signs of burnout, and ways to "
+"prevent, deal with, or otherwise alleviate it."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:9
+msgid "Causes of Burnout"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:11
+msgid "Your group may be growing faster than anticipated."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:12
+msgid ""
+"Your passion for the community comes with an inability to say no when "
+"asked to do things."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:13
+msgid ""
+"It's exhausting to be \"on\" for so long -- from the preparation leading "
+"up to an event, to organizing and interacting with all the people who "
+"come to the event, to following up with folks afterward."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:17
+msgid "Signs of burnout"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:18
+msgid ""
+"You begin dropping the ball here and there because you've overcommitted "
+"to things."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:19
+msgid "You begin to dread planning or attending events."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:20
+msgid "Relationships between organizers deteriorate."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:21
+msgid "Your initial feeling of goodwill toward attendees begins to sour."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:25
+msgid "Ways to prevent burnout"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:28
+msgid "Running your Group"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:29
+msgid ""
+"Find co-organizers to help shoulder the burden. We all have different "
+"skills, strengths, and weaknesses."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:30
+msgid ""
+"Ask participants to be mentors to beginners. Even beginners can step up "
+"to deal with non-technical aspects of an event. This can also make things"
+" more fun, and helps build community."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:31
+msgid ""
+"If people demand even more of you than what they're getting, politely "
+"remind them that we don't get paid for this, and that organizers lead "
+"*very* busy lives. Suggest that person step up and organize something "
+"themselves."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:32
+msgid ""
+"Scale back your involvement to a level you find sustainable over the long"
+" term."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:33
+msgid "Take a break altogether."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:36
+msgid "Taking a break"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:37
+msgid ""
+"It's *completely* okay to stop your involvement for a time. Everyone "
+"would prefer that you take a breather if it meant you could come back "
+"refreshed and ready to pick things up again."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:41
+#: ../../organizer/eventhosting/events.rst:4
+msgid "Events"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:43
+msgid ""
+"Have variety! Try different speakers, different topics, difference "
+"venues. Intersperse large events with simpler, informal ones. Lightning "
+"talks help break things up."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:44
+msgid ""
+"Work with other groups in your community, ask them to lend a hand with "
+"things from time to time."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:49
+msgid "Coping with burnout"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:52
+msgid "If you notice someone seems to be burning out"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:54
+msgid ""
+"Meet with them, outside of an official event, in a relaxed environment. "
+"Learn how they are feeling, work with them to determine how to deal with "
+"it if they *are* burning out."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:56
+msgid ""
+"Let them take a breather and leave them the option to leave permanently "
+"without guilt."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:59
+msgid "If you are feeling burnt out"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:60
+msgid ""
+"Know that you are not alone. This stuff is hard, and it's hard to do for "
+"a long time."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:61
+msgid "It's ok to ask people to step up and help more."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:62
+msgid "Reach out to other PyLadies group organizers."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:63
+msgid "Again: It's ok to take a break."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:67
+msgid "Why are you here?"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:69
+msgid ""
+"Think about your personal goals and how your work is helpign you achieve "
+"them. Also think about how your goals might be better achieved if, in the"
+" long term, you maanged to avoid burning out."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:70
+msgid ""
+"It's really rewarding to help women both learn Python and find their "
+"place in the larger community, but it's really hard work."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:71
+msgid ""
+"There's more support in your group than you might guess. People will want"
+" to help you out if they can."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:74
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:59
+msgid "Summary"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:76
+msgid "Self care is important, perhaps most important."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:78
+msgid ""
+"In particular, in times of stress, illness, or sleep-deprivation, "
+"remember to take the time to show compassion and care for *yourself*."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:80
+msgid "People are human."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:82
+msgid ""
+"We all get sick, overwhelmed, forgetful, and make mistakes at times. Try "
+"to remember and embrace these as the \"oh, goodness\" moments of "
+"volunteering."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:84
+msgid "\"Hello, Murphy. Welcome.\""
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:86
+msgid ""
+"Murphy's Law (Source: Wikipedia. an adage or epigram that is typically "
+"stated as: Anything that can go wrong will go wrong.) pops up in the most"
+" unexpected times and places. Accept Murphy works in mysterious, "
+"unpredictable ways. A sense of humor, humility, and resourcefulness are "
+"crucial to effective community organizing."
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:90
+msgid "Further reading"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:91
+msgid ""
+"`women-specific <http://bossmomonline.com/2011/06/avoid-volunteer-"
+"burnout-in-the-new-year/>`_"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:92
+msgid ""
+"`context is church volunteering but similar principles "
+"<http://www.behindthemixer.com/how-deal-burnout-steps-i-take/>`_"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:93
+msgid ""
+"`general <http://money.howstuffworks.com/economics/volunteer/information"
+"/volunteer-burnout2.htm>`_"
+msgstr ""
+
+#: ../../organizer/difficult/burnout.rst:94
+msgid ""
+"`non-profit/activist <http://www.toolsforchange.net/2012/01/14/cheyennas-"
+"tips-for-avoiding-burnout/>`_"
+msgstr ""
+
+#: ../../organizer/difficult/coc.rst:2 ../../organizer/global/policies.rst:14
+msgid "Code of Conduct"
+msgstr ""
+
+#: ../../organizer/difficult/coc.rst:4 ../../organizer/global/policies.rst:16
+msgid ""
+"All PyLadies events (Meetups, conference lunches, etc), online spaces "
+"(IRC, Facebook, etc) are beholden to the PyLadies :doc:`../../coc`."
+msgstr ""
+
+#: ../../organizer/difficult/coc.rst:6 ../../organizer/global/policies.rst:18
+msgid ""
+"Every PyLadies location is **required** to make :doc:`../../coc` public "
+"in some way.  For instance, PyLadies SF has a dedicated `page`_ on their "
+"Meetup space.  The ``#pyladies`` IRC channel on Freenode has a link to "
+"the `main website's`_ Code of Conduct in the topic of the channel."
+msgstr ""
+
+#: ../../organizer/difficult/coc.rst:8 ../../organizer/global/policies.rst:20
+msgid ""
+"Please read :doc:`../difficult/responding` for how to appropriately deal "
+"with CoC violations."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:2
+msgid "Responding to CoC Violations"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:4
+msgid ""
+"As a PyLadies organizer, you may get reports of harassment or other "
+":ref:`coc` violations.  It can be confusing and stressful to deal with.  "
+"But have no fear!  Adapted from `Geek Feminism`_, we have some "
+"guidelines."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:9
+msgid "Preparation"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:11
+msgid ""
+"You and any co-organizers should be prepared in case someone wants to "
+"report harassment that they've face. Here are some suggestions to help "
+"you prepare for the process if a report ever happens, however feel free "
+"to adapt them as you wish."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:16
+msgid "List of emergency resources"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:18
+msgid ""
+"This is good for both you/organizers in case a incident is beyond your "
+"capability to appropriately deal with, and for the reporter of harassment"
+" to use if they wish. Suggested resources include:"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:20
+msgid ""
+"Local emergency services (police, ambulance, etc).  It's good to have "
+"both emergency phone numbers and non-emergency phone numbers."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:21
+msgid "Local mental health services"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:22
+msgid "Sexual assault hotlines"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:27
+msgid "Record Keeping"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:29
+msgid ""
+"You have the ability to use Google Drive with your ``pyladies.com`` "
+"account (please don't polute your personal Google drive!).  Just log into"
+" `drive.google.com`_ with your PyLadies email login information.  With "
+"that,"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:31
+msgid ""
+"Create a form (e.g. with Google Forms) that allows someone to report the "
+"incident online.  See :ref:`receiving` for what details to collect.  An "
+"example form can be found `here`_."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:32
+msgid ""
+"Publish the form within your location's page (e.g. local Meetup page, "
+"website, Facebook) as well as emailed out when it initially is published."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:33
+msgid ""
+"Publish contact information (e.g. your location's email) in case they "
+"wish to not fill out the form or want talk to someone directly."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:34
+msgid ""
+"Set up `email notifications`_ for any form response so you don't miss "
+"anything"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:35
+msgid ""
+"Create documents for any notes that you/the organizers take, write down "
+"any actions took and the resolve, any email conversations.  Anything that"
+" is done in relation to the incident should be documented."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:36
+msgid ""
+"It may be a good setup to create folders per incident.  Then you can just"
+" upload PDF printouts of email conversations, or quickly write notes "
+"about conversations."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:38
+msgid "The purpose of maintaining a \"paper trail\" is:"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:40
+msgid ""
+"If you step down as an organizer, or another organizer receives a "
+"complaint regarding a previous offender, it can be dealt with in a more "
+"appropriate manner, and"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:41
+msgid "Maintain a record in case local authorities ever get involved."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:44
+msgid "Informing PyLadies Global"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:46
+msgid ""
+"If an incident happens in your local PyLadies community, you must report "
+"it to the global organization via `our CoC reporting form`_.  The purpose"
+" is very similar to :ref:`record` - for the global organization to be "
+"aware of what's going on in case of any legal or PR action is "
+"needed/taken, as well as look for a pattern of behavior (e.g. a repeat "
+"harasser moves locations, if a community is particularly unwelcoming and "
+"may need more help)."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:48
+msgid ""
+"You are of course welcome and invited to request help from the global "
+"PyLadies organization.  We are here for resources, advice, or just to "
+"talk to."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:50
+msgid ""
+"The global organization is also responsible for complaints of local "
+"organizers.  If you received or witnessed unwanted behavior in any way "
+"that breaks our :ref:`coc` by another organizer, please do not hesitate "
+"to contact us.  You may report any violations via `our global report "
+"form`_, or contact us at `coc@pyladies.com`_."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:52
+msgid "The following people maintain any :ref:`coc` reports:"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:54
+msgid "Esther Nam (`la@pyladies.com`_)"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:55
+msgid "Lynn Root (`sf@pyladies.com`_)"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:57
+msgid ""
+"If you do not feel comfortable with anyone above when sending a report "
+"(e.g. the report is against someone above), please reach out to someone "
+"else on the above list."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:62
+msgid "Receiving a Complaint"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:64
+msgid ""
+"Ask the reporter to write down what happened to the best of their "
+"ability. If the report was given verbally or does not want to, then "
+"please write down the complaint yourself (see :ref:`record`)."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:66
+msgid "We suggest the following:"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:68
+msgid "Identifying information of the participant doing the harassing"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:69
+msgid "The behavior that was in violation"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:70
+msgid ""
+"The approximate time of the behavior (if different than the time of the "
+"report was made)"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:71
+msgid "Any circumstances surrounding the incident"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:72
+msgid "Other people involved in the incident"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:73
+msgid "If they wish to remain anonymous in any way"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:74
+msgid "How you can contact them for follow up"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:76
+msgid ""
+"We suggest to have a designated person (*not* the whole group of "
+"organizers) to handle the conversation between the involved parties and "
+"the local group.  This is to avoid the \"group against one\" environment,"
+" as well as \"interviewing\" or otherwise \"evidence gathering\"."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:78
+msgid ""
+"Make it known to the parties involved about who is a part of the group "
+"that addresses these complaints (if it's just you, or other organizers "
+"will be brought in to discuss how to handle the complaint), and that you "
+"will be documenting the report and the response"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:81
+msgid "Responding to a Complaint"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:83
+msgid ""
+"There are various levels of responses depending on the incident.  Please "
+"follow accordingly:"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:87
+msgid "Threats to Physical Wellbeing"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:89
+msgid ""
+"Most harassment complaints aren't of this nature, but if someone reports "
+"that an attendee has committed or is threatening violence towards another"
+" attendee, or other safety issues:"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:91
+msgid ""
+"If there is any general threat to attendees or the safety of anyone "
+"including conference staff is in doubt, summon security or police."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:92
+msgid "Offer the victim a private place to sit"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:93
+msgid ""
+"Ask \"is there a friend or trusted person who you would like to be with "
+"you?\" (if so, arrange for someone to fetch this person)"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:94
+msgid "Ask them \"how can I help?\""
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:95
+msgid "Provide them with your :ref:`emergency` if they need help later"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:98
+msgid "Law Enforcement"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:100
+msgid ""
+"If everyone is presently physically safe, involve law enforcement or "
+"security only at a victim's request."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:102
+msgid ""
+"In many cases, reporting harassment to law enforcement is very unpleasant"
+" and may result in further harassment. Forcing victims to go to law "
+"enforcement will reduce reports of harassment (but not actual "
+"harassment). For more information, see Why Didn't You Report It?"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:104
+msgid ""
+"An organizer can provide the :ref:`emergency` and say something like \"if"
+" you want any help reporting this incident, please let us know\" and "
+"leave it at that."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:107
+msgid "Reports of Harassment that were Widely Witnessed"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:108
+msgid ""
+"These include things like harassing content in talks, or harassment that "
+"took place in a crowded space."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:110
+msgid ""
+"Simply say \"Thanks, this sounds like a breach of our :ref:`coc`. I am "
+"going to convene a meeting of a small group of people and figure out what"
+" our response will be.\""
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:113
+msgid "Reports of more private harassment"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:115
+msgid ""
+"Offer the reporter/victim a chance to decide if any further action is "
+"taken: \"OK, this sounds like a breach of our :ref:`coc` policy. If "
+"you're OK with it I am going to convene a meeting of a small group of "
+"people and figure out what our response will be.\" Pause, and see if they"
+" say they do not want this. Otherwise, go ahead."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:118
+msgid "Things not to do"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:120
+msgid ""
+"Do not overtly invite them to withdraw the complaint or mention that "
+"withdrawal is OK: this suggests that you want them to do so, and is "
+"therefore coercive. \"If you're OK with it [pursuing the complaint]\" "
+"suggests that you are by default pursuing it and is not coercive."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:121
+msgid ""
+"Do not ask for their advice on how to deal with the complaint: this is "
+"the staff's responsibility"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:122
+msgid "Do not offer them input into penalties: this is the staff's responsibility"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:123
+msgid ""
+"Do not share details of the people involved or incident without specific "
+"permission from the victim. This includes sharing with other organizers "
+"(unless they are a part of your group to respond to incidents."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:127
+msgid "Forming a Response"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:129
+msgid ""
+"You should aim to take action **as soon as reasonably possible**. During "
+"the event, a response within the next half-day is usually an appropriate "
+"timeframe. After the event you may need more time to gather sufficient "
+"decision makers, but ideally responding within the same week or sooner is"
+" good."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:132
+msgid "Meeting"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:133
+msgid ""
+"Available co-organizers should meet as soon as possible after a report to"
+" discuss:"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:135
+msgid "What happened?"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:136
+msgid "Are we doing anything about it?"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:137
+msgid "Who is doing those things?"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:138
+msgid "When are they doing them?"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:140
+msgid ""
+"Neither the complainant nor the alleged harasser should attend. (If the "
+"event was very widely witnessed, such as a harassing talk, this may be an"
+" exception to this guideline.) People with a conflict of interest should "
+"exclude themselves or if necessary be excluded by others."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:143
+msgid "Communicate with the alleged harasser about the complaint"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:145
+msgid ""
+"As soon as possible, either before or during the above meeting, let the "
+"alleged harasser know that there is a complaint about them, let them tell"
+" someone their side of the story and that person takes it into the "
+"meeting."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:148
+msgid "Communicate with the harasser about the response"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:149
+msgid ""
+"As soon as possible after that meeting, let the harasser know what action"
+" is being taken. Give them a place to appeal to if there is one, but in "
+"the meantime the action stands. \"If you'd like to discuss this further, "
+"please contact XYZ, but in the meantime, you must <something something>\""
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:153
+msgid "Possible sanctions"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:155
+msgid ""
+"Your guiding principle should be the **safety of your community members "
+"from harassment** and you should evaluate sanctions in light of whether "
+"they provide the safety needed. You and your event are the only people "
+"who can judge appropriate sanctions in your community based on the nature"
+" of the incident and the responses of the people involved, but some "
+"possibilities are:"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:157
+msgid ""
+"Warning the harasser to cease their behaviour and that any further "
+"reports will result in sanctions"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:158
+msgid ""
+"Requiring that the harasser avoid any interaction with, and physical "
+"proximity to, their victim for the remainder of the event"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:159
+msgid "Ending a talk that violates the policy early"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:160
+msgid "Not publishing the video or slides of a talk that violated the policy"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:161
+msgid ""
+"Not allowing a speaker who violated the policy to give (further) talks at"
+" the event"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:162
+msgid ""
+"Immediately ending any event volunteer responsibilities and privileges "
+"the harasser holds"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:163
+msgid ""
+"Requiring that the harasser not volunteer for future events your "
+"organization runs (either indefinitely or for a certain time period)"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:164
+msgid ""
+"Requiring that the harasser refund any travel grants and similar they "
+"received (this would need to be a condition of the grant at the time of "
+"being awarded)"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:165
+msgid "Requiring that the harasser immediately leave the event and not return"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:166
+msgid ""
+"Banning the harasser from future events (either indefinitely or for a "
+"certain time period)"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:167
+msgid "Removing a harasser from membership of relevant organizations"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:168
+msgid ""
+"Publishing an account of the harassment and calling for the resignation "
+"of the harasser from their responsibilities (usually pursued by people "
+"without formal authority: may be called for if the harasser is the event "
+"leader, or refuses to stand aside from the conflict of interest, or "
+"similar, typically event staff have sufficient governing rights over "
+"their space that this isn't as useful)"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:171
+msgid "Employer reports"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:172
+msgid ""
+"If someone harassed someone else while in an official employee capacity, "
+"such as while working as paid event staff, while giving a talk about "
+"their employer's product, while staffing a sponsor booth, while wearing "
+"their employer's branded merchandise, while attempting to recruit someone"
+" for a job, or while claiming to represent their employer's views, it may"
+" be appropriate to provide a short report of their conduct to their "
+"employer."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:175
+msgid "Don't require or encourage apologies"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:176
+msgid ""
+"We do not suggest asking for an apology to the victim. You have no "
+"responsibility to enforce friendship, reconciliation, or anything beyond "
+"lack of harassment between any two given attendees, and in fact doing so "
+"can contribute to someone's lack of safety at your event."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:178
+msgid ""
+"Forcing a victim of harassment to acknowledge an apology from their "
+"harasser forces further contact with their harasser. It also creates a "
+"social expectation that they will accept the apology, forgive their "
+"harasser, and return their social connection to its previous status. A "
+"person who has been harassed will often prefer to ignore or avoid their "
+"harasser entirely. Bringing them together with a third party mediator and"
+" other attempts to \"repair\" the situation which require further "
+"interaction between them should likewise be avoided."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:180
+msgid ""
+"If the harasser offers to apologize to the victim (especially in person),"
+" we suggest strongly discouraging it. If a staff member relays an apology"
+" to the victim, it should be brief and not require a response. (\"X "
+"apologizes and agrees to have no further contact with you\" is brief. \"X"
+" is very sorry that their attempts to woo you were not received in the "
+"manner that was intended and will try to do better next time, they're "
+"really really sorry and hope that you can find it in your heart to "
+"forgive them\" is emphatically not.)"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:182
+msgid ""
+"If the harasser attempts to press an apology on someone who would clearly"
+" prefer to avoid them, or attempts to recruit others to relay messages on"
+" their behalf, this may constitute continued harassment."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:185
+msgid "Data retention"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:186
+msgid ""
+"Build a data retention policy for various information related to "
+"harassment policies. In particular, an anti-harassment policy that states"
+" that sufficiently bad offenses can earn a lifetime ban from the event "
+"should have a data retention plan that includes how to store and "
+"communicate offenses from past events to the staff of future events, for "
+"the lifetime of the organization."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:188
+msgid "Things to think about:"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:190
+msgid "What gets stored?"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:191
+msgid "How is it stored? (Paper is less searchable than electronic records.)"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:192
+msgid "Who has access to it?"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:194
+msgid "Who is allowed to have access?"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:195
+msgid "How is that access controlled?"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:196
+msgid "How is it communicated to future staff?"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:197
+msgid "How long are the stored records kept?"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:199
+msgid ""
+"Is there a difference in how long different types of records need to be "
+"kept?"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:200
+msgid ""
+"At what point in the registration process does someone check against "
+"records of banned attendees?"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:204
+msgid "Communicating with your community"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:207
+msgid "Principles"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:208
+msgid "Your community may need to see the policy enforced because:"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:210
+msgid ""
+"you want to be transparent to your community and not have secret policies"
+" and sanctions that you aren't accountable for"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:211
+msgid ""
+"the actions of the harasser, or reports of multiple harassment, show that"
+" your policy may not be well understood"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:212
+msgid "you wish to reassure people that you are serious about anti-harassment"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:215
+msgid "Level of detail"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:217
+msgid ""
+"When discussing the incident with others, it is good to keep the "
+"individuals anonymous, generally. (An exception may be if the harasser is"
+" very central to the community, such as a core conference staffer.) "
+"However, it is useful to:"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:219
+msgid ""
+"offer some idea of the nature of the incident eg \"a sexual slide was "
+"shown in a talk\" or \"an attendee physically threatened another "
+"attendee\" or \"an attendee repeatedly harassed another attendee despite "
+"multiple requests to cease\" or whatever."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:220
+msgid "briefly mention the sanction"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:221
+msgid ""
+"(briefly! neutrally!) convey any apologies from the harasser, especially "
+"if they were backed by actions, for example \"the "
+"[attendee/speaker/staffer] has agreed that their actions were "
+"inappropriate and has voluntarily left the conference\""
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:223
+msgid ""
+"This helps your community understand the reality of the policy: how and "
+"when it gets enforced."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:227
+msgid "Informing attendees"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:228
+msgid ""
+"If the event has been dealt with at the conference, it may be appropriate"
+" for the conference to make a short announcement at the next plenary, "
+"something like:"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:230
+msgid ""
+"\"<thing> happened. This was a violation of our policy. We apologise for "
+"this. We have taken <action>. This is a good time for all attendees to "
+"review our policy at <location>. If anyone would like to discuss this "
+"further they can <contact us somehow>.\""
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:233
+msgid "And then move on with the program."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:236
+msgid "Dealing with upset attendees"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:237
+msgid ""
+"People may be upset and wish to express their concerns to conference "
+"staff. Conference staff should be in \"making the person feel heard\" "
+"mode, it's important not to cross into education mode. Hear them out, "
+"take notes as approriate, thank them for their thoughts."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:239
+msgid ""
+"**Conference staff should not share additional details of the incident "
+"with uninvolved parties.**"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:241
+msgid ""
+"If an attendee are upset and a staff member agrees that a wrong was done "
+"to them, it helps a lot to just say simply \"I'm so sorry.\" (Rather than"
+" \"but we tried really hard\" or \"no one told us\" or etc, even if that "
+"was true. \"I'm so sorry\" goes a long way to defusing many people's "
+"anger.)"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:243
+msgid ""
+"Whether or not a staffer agree that a wrong was done to them them, they "
+"should be armed with an authority they can appeal to if talking wasn't "
+"enough. \"Please email our conference director.\" \"Please email our "
+"committee.\" etc."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:246
+msgid "Public response"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:248
+msgid ""
+"Some incidents of harassment will need a public response after the "
+"conference in order to protect the reputation of your awesome, friendly, "
+"professional conference. Be prepared and willing to distance your "
+"conference from actions of participants that reflect badly on your "
+"conference, and to defend your action or inaction in response. Nobody "
+"likes being the bad guy, but even fewer people like going to a conference"
+" when the organizers seem to condone bad behavior, whether the reputation"
+" is for punishing the people reporting it, ignoring it, or enforcing an "
+"existing policy unevenly (someone with no connections getting the "
+"harshest possible penalty, someone with intimate connections to the "
+"organizers getting off lighter than the stated policy)."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:250
+msgid ""
+"Timing is important. Try to respond quickly to harassment incidents. A "
+"late response looks a lot like no response at all and can harm your "
+"conference's reputation and future attendance. A simple and relatively "
+"uncontroversial response with few legal concerns is to issue a general "
+"statement about the kind of behavior involved:"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:252
+msgid ""
+"\"PyLadies does not condone $BEHAVIOR. $BEHAVIOR violates the anti-"
+"harassment policy of PyLadies, which specifies that participants engaging"
+" in $BEHAVIOR will be expelled from the conference. We take harassment "
+"seriously and respond to reports of it quickly and firmly.\""
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:255
+msgid "Evaluation"
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:256
+msgid ""
+"After you have had a chance to observe how the anti-harassment policy "
+"works in the real situations presented by your conference, you may wish "
+"to change the policy to better address them. Did anything unforseen "
+"happen that there should be a rule about? Sometimes an unacceptable "
+"behavior does not warrant a whole new rule, but should be listed as a "
+"specific example of unacceptable behavior under an existing rule."
+msgstr ""
+
+#: ../../organizer/difficult/responding.rst:258
+msgid ""
+"For consistency, it is wise to deal with situations that came up at this "
+"year's conference under this year's rules, and only apply any changes "
+"going forward to the next conference."
+msgstr ""
+
+#: ../../organizer/eventhosting/advice.rst:4
+msgid "Advice"
+msgstr ""
+
+#: ../../organizer/eventhosting/advice.rst:8
+msgid "Dealing with volunteer/organizer burnout"
+msgstr ""
+
+#: ../../organizer/eventhosting/advice.rst:10
+msgid ""
+"Organizing a PyLadies group is hard work, and no less for the people who "
+"volunteer to help out. :doc:`burnout <../difficult/burnout>` is a page to"
+" help recognize and deal with signs of burnout."
+msgstr ""
+
+#: ../../organizer/eventhosting/advice.rst:14
+msgid "Dealing with unwelcome people"
+msgstr ""
+
+#: ../../organizer/eventhosting/advice.rst:16
+msgid ""
+"Some people are jerks. It can be difficult to handle situations in which "
+"an unwanted person attends events, or otherwise is not a supporter of "
+"PyLadies.  Check out :doc:`../difficult/responding` on how to handle "
+"people that violate the PyLadies :doc:`../difficult/coc`.  Don't be "
+"afraid to ask someone to leave the event (or request the venue host to "
+"act as a \"bouncer\" for you).  And if that person refuses, please feel "
+"comfortable/empowered to call local authorities requesting for help."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:10
+msgid "Event Types"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:13
+msgid "Organizer Events"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:15
+msgid ""
+"Very useful for planning sessions, but also for support and "
+"accountability."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:18
+msgid "Python Ladies' Nights"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:20
+msgid ""
+"The PyLadies aren’t ALL about coding -- we also love to socialize and "
+"have fun!"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:22
+msgid "Hosted: a potluck/party at a member’s house Meet: at a bar or restaurant"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:26
+msgid "Workshops"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:28
+msgid ""
+"You can host workshops either as full-day events every 1-3 months or so, "
+"or as evening events that occur weekly."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:31
+msgid "Intro to Python"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:33
+msgid "Austin PyLadies `Intro to Python`_."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:34
+msgid "PyStar has some great tutorials for beginners."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:35
+msgid "Learn Python the Hard Way by Zed Shaw"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:36
+msgid "custom (depending on your needs)"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:41
+msgid "Intro to Django"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:43
+msgid "Poll tutorial from `Django Docs`_."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:44
+msgid "Sandy Strong's `Intro to Django Workshop slides`_."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:50
+msgid "Other topic of interest workshop"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:52
+msgid ""
+"Find a programming/relevant developer book that you’d like to study. Host"
+" a weekly study group."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:53
+msgid "Host a weekend workshop about game programming, startups, journalism, etc."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:56
+msgid "Hackathons/Sprints"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:58
+msgid ""
+"LA PyLadies has hosted hackathons where attendees bring laptops and "
+"projects of their own to work on. Beginners are pointed to "
+"`learnpythonthehardway.org <http://learnpythonthehardway.org>`_ and "
+"instructed to work through the tutorial, asking for help as needed. They "
+"are urged to post exercises to Github, as a way to dip their toes in the "
+"world of open source sofware."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:60
+msgid "Hackathons can be evening, full-day, or all-weekend events."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:63
+msgid "Virtual meetups"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:65
+msgid ""
+"PyLadiesAU held their first group meeting as a virtual meetup. See "
+"`Australian PyLadies`_ for details."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:67
+msgid ""
+"The IRC #pyladies channel is always available for anyone to use for "
+"virtual meetups. Feel free to use it without asking, or create a "
+"#pyladies-whatever channel if you prefer."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:72
+msgid "Meetups as part of a Python user group (PUG) meetup"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:74
+msgid ""
+"A PyLadies event can be as simple as women getting together and talking "
+"about each others’ Python projects in a small group after a local PUG "
+"event."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:76
+msgid ""
+"Anything to encourage women to attend and continue attending PUGs is "
+"great. Talk to your local PUG organizers and ask for their help and "
+"support in having a post-PUG informal PyLadies meetup."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:78
+msgid ""
+"You might also consider trying to give a :doc:`talks/beginner` at a  "
+"meetup. This can help bring more beginners who might otherwise be  scared"
+" away to the group."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:81
+msgid "Code review sessions"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:83
+msgid ""
+"Reviewing someone’s coding project together can help everyone learn "
+"better coding practices."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:86
+msgid "Conference prep sessions"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:88
+msgid ""
+"Python conferences that might interest your group: PyCon, DjangoCon, "
+"PloneConf, SciPy (Python for Scientific Computing)"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:90
+msgid "What you can do to prepare together:"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:92
+msgid "Brainstorm talk ideas. Help each other put together talk outlines."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:93
+msgid "Review each others’ talk proposals."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:94
+msgid "Practice talks in front of each other, in a small group."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:95
+msgid ""
+"Practice in a larger group, as a joint event with the local Python user "
+"group."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:97
+msgid ""
+"Conferences can be stressful, but they’re also a lot of fun, particularly"
+" if you’re attending with a friend or a small group. There's also a good "
+"chance you will run into PyLadies from other groups!"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:101
+msgid "Event Checklist"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:103
+msgid "So you’re ready to host an event?"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:106
+msgid "To host an event"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:114
+msgid "Decide the type of event.  Examples:"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:109
+msgid "Hack night/hack weekend"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:110
+msgid "Sprinting on an Open Source project (e.g. Django, CPython, etc)"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:111
+msgid "Workshop - introductory Python, intermediate, intro to Git, anything"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:112
+msgid "Study group"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:113
+msgid "Coffee & hack"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:114
+msgid "Speaker series/lightning talks"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:115
+msgid "Check out ideas on other locations' websites and meetup pages."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:124
+msgid "Email local tech companies to ask for event hosting support:"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:117
+msgid ""
+"You can find companies that use Python by looking at their job boards, "
+"and other Python group events"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:118
+msgid ""
+"If you're in a bigger city, choose a location that can be easily "
+"accessible via public transit, or have ample parking"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:124
+msgid ""
+"Cold-email a general email address if you don't have an actual contact at"
+" the company.  This is still highly effective!"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:120
+msgid ""
+"Be upfront with what you need; just hosting space?  Space and food? For "
+"how many people?"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:121
+msgid "Include proposed dates/times"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:122
+msgid ""
+"Offer time during the event for them to pitch their product(s) and/or any"
+" job openings"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:123
+msgid ""
+"Ask for a description of the type of space available; feel free to ask to"
+" check it out beforehand"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:124
+msgid ""
+"Events often need wifi for attendees, and if it's an event longer than a "
+"few hours, then easy-to-access power outlets are needed as well"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:125
+msgid ""
+"Be mindful of the company's RSVP/check in wishes if they have any.  Do "
+"they want First & Last name? Will there be alcohol served, and therefore "
+"ID needs to be checked?"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:130
+msgid ""
+"Once date & event is set with the host, post up the event on Meetup.com "
+"group"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:127
+#, python-format
+msgid ""
+"Be sure to setup the RSVP limits if space is limited.  Apprehend about "
+"50%-60% of RSVPs will actually show up (if it's a free event)."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:128
+msgid ""
+"Give an exact address; Meetup.com allows you to hide the address to non-"
+"group members."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:129
+msgid ""
+"Be *clear* on who can attend.  Women only?  Women and a guest of +1 (of "
+"either gender)? Both women and men?  Complete n00bs to Python?  Or solid "
+"Pythonistas?"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:130
+msgid ""
+"Detail what is needed to be prepared for the event.  Just bring "
+"themselves?  Do they need their computer?  Prior knowledge?"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:131
+msgid "Be explicit if there will be food/drinks or not so folks and plan ahead."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:134
+msgid "If hosting a workshop, solicit for mentors."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:133
+msgid "Have an easy sign-up sheet for mentors (perhaps a Google Docs form)."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:134
+msgid ""
+"Prep the mentors by detailing what you plan on doing, what your "
+"expectations are for the event, how best they can help"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:135
+msgid ""
+"Often times, it's hard to get all-female mentors.  Most of the time, male"
+" mentors are very nice and helpful."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:136
+msgid ""
+"A few days before the event, email RSVP'd folks to update their RSVP "
+"status if they are no longer going.  This is especially nice if folks are"
+" on a waiting list for the event."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:137
+msgid ""
+"Arrive a little early; folks will always arrive before doors officially "
+"open"
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:138
+msgid ""
+"Have nametags for attendees.  If having a workshop, have mentors wear "
+"nametags and perhaps a special sticker or something to designate that "
+"they are mentors."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:139
+msgid "Post any resources for the event - either before or afterwards."
+msgstr ""
+
+#: ../../organizer/eventhosting/events.rst:140
+msgid "Have fun!"
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:4
+msgid "Grant Proposal: LA PyLadies Hackathon"
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:6
+msgid "Contact:"
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:8
+msgid "Audrey Roy"
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:10
+msgid "audreyr@pyladies.com"
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:12
+msgid "(???) ???-????"
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:17
+msgid "Background"
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:19
+msgid ""
+"In March 2011, I asked around at LA Django if anyone wanted to do "
+"something about diversity in the local Python community. The 3 female "
+"devs who were there that night and myself got together afterward. That "
+"night PyLadies was born."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:21
+msgid "Since then the group has done the following:"
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:23
+msgid ""
+"Python Ladies’ Night 1, April 16. Potluck at Katharine Jarmul’s house. 5 "
+"attended."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:24
+msgid "Python Ladies’ Night 2, May 8. Intelligentsia Coffee. 6 attended."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:25
+msgid ""
+"Intro to Python Workshop, May 15. 7 women taught, 3 men volunteered. 25 "
+"women and 2 men attended."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:27
+msgid "We have planned the following:"
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:29
+msgid ""
+"Python Ladies’ Night 3, June 3. Seven Grand bar in downtown LA. All "
+"female Python developers and significant others/friends are invited."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:30
+msgid ""
+"PyLadies Hackathon, June 18. 7 women and 5 men will be mentoring "
+"attendees and helping them get started on any project of their choice, as"
+" long as it involves Python."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:31
+msgid ""
+"LA Django/PyLadies Women’s Intro to Django workshop and Hackathon, August"
+" 13."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:32
+msgid "SoCal Piggies/PyLadies Joint Hack Day, date tbd."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:33
+msgid ""
+"PyLadies Talk Proposal Day, where we meet to help each other write and "
+"submit talk proposals for DjangoCon, PyCon, and other conferences, date "
+"tbd."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:35
+msgid ""
+"PyLadies now has a team of 7 female Python developers leading/organizing "
+"events, plus 8 male/female volunteers pitching in at our events."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:40
+msgid "Request for funds"
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:43
+msgid ""
+"We would like to request funding to cover the costs of 6 6-foot folding "
+"tables and 24 folding chairs to use at all our future events. This is our"
+" biggest pain point. We only have space to seat 10 people at tables at "
+"the upcoming hack session on June 18. At the previous Intro to Python "
+"workshop, we were scrambling for furniture and embarrassingly had to ask "
+"attendees to bring tables/chairs."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:45
+msgid ""
+"Based on prices from walmart.com, tables are roughly $40 each: "
+"http://www.walmart.com/ip/Cosco-6- Foot-Long-Center-Fold-Table/13269097"
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:47
+msgid ""
+"Chairs are roughly $80 for a 4-pack:￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ "
+"http://www.walmart.com/ip/Hercules-Hinged-Fabric-Padded-Folding-Chair-4"
+"-Pack-Navy-Blue/13241431 Total requested for tables/chairs: $40*6+80*6 = "
+"$720"
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:49
+msgid ""
+"If possible, we request $500 to cover a small print run of PyLadies "
+"t-shirts. At the Intro to Python workshop, 7 of the volunteers paid to "
+"have their own PyLadies t-shirts printed, to wear the day of the event. "
+"It made a huge impact on the attendees. We are not just teaching "
+"workshops but trying to build a community of female Python developers "
+"willing to help each other, identifiable at events by t-shirt."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:51
+msgid ""
+"We would like to either sell the t-shirts at events (all profits being "
+"used for food at future PyLadies events or printing of materials), and/or"
+" give them out to attendees as prizes/incentives for things such as open-"
+" sourcing their Python code or participating in other open-source Python "
+"projects."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:53
+msgid ""
+"We have the files in print-ready form. We used Spreadshirt for getting "
+"individual shirts printed on demand (see "
+"http://www.pyladies.com/t-shirts/), but I’ve brought our design files to "
+"local wholesalers in LA’s Garment District and found out that we can get "
+"them printed locally for less with a faster turnaround"
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:55
+msgid ""
+"We are open to other options too, such as working with t-shirt companies "
+"that the PSF has successfully worked with in the past."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:61
+msgid ""
+"PyLadies requests a total of $1220 in funding to help cover tables/chairs"
+" and t-shirt printing for our June hack session."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:63
+msgid ""
+"We are starting to see real impact on the LA community as a result of our"
+" work. I have now met over 50 women in LA who have told me that they want"
+" to learn Python. The last SoCal Python Interest Group meeting had 6 "
+"females in attendance, up from 1. The LA Django meetup group is now "
+"planning to co- host a women’s Intro to Django workshop, thanks to our "
+"efforts."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:65
+#, python-format
+msgid ""
+"(Note: since then, I’ve realized that the number of women who attend the "
+"regular local user group doesn’t matter. What matters is the number and %"
+" of women who attend the local WOMEN’s user group."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:67
+msgid ""
+"The fact that it’s a user group with regular members is all that counts. "
+"There’s no need to force the women to attend a mostly-male user group if "
+"that’s the situation in your city; there is enough merit to having a "
+"women’s Python user group in itself."
+msgstr ""
+
+#: ../../organizer/eventhosting/grant-proposals/sample-hackathon.rst:69
+msgid ""
+"Point this out and make it clear that regular attendance at your group is"
+" what counts in the end.)"
+msgstr ""
+
+#: ../../organizer/eventhosting/grants.rst:2
+msgid "Grants"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:2
+msgid "Event Ideas"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:5
+#: ../../organizer/eventhosting/sponsors.rst:4
+msgid "By `Barbara Sharette`_"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:9
+msgid "Ideas for meeting spaces/venues"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:11
+msgid ""
+"Local tech company spaces - ask people you know who work there, or ask "
+"your own employer if there's a meeting space you can use.  Don't be "
+"afraid to find local Python companies and cold-email a public email "
+"address!"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:12
+msgid ""
+"For companies willing to let you use their meeting spaces, offer them the"
+" chance to do a hiring spiel to open the meeting."
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:13
+msgid "Check with the organizers of other tech meetup groups for venue ideas."
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:14
+msgid "Contact local hacker spaces"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:15
+msgid "Contact local coworking spaces"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:16
+msgid "Contact your local university's CS department"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:20
+msgid "Meeting ideas"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:22
+msgid ""
+"Workshops with themes/goals (e.g., one workshop on how to build a small "
+"webapp, another one where you try to use python to solve some "
+"brainteasers)"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:23
+msgid ""
+"Hold a small competition for your group where there's a goal and you "
+"split into two teams and try to solve a problem faster, or better "
+"(performance, speed, etc.)."
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:24
+msgid "Beginner Python and Git classes"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:25
+msgid "Get involved with hack days with other local user groups"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:26
+msgid ""
+"Brainstorm ideas for group projects, so that you have a collection of "
+"specific projects to work on for hack nights."
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:27
+msgid ""
+"Leverage Google Hangout to offer support to existing members on matters "
+"that hinge more on conversation than on in-person hacking  (e.g., "
+"PyLadies recently hosted a hangout to chat about the PyCon call for "
+"proposals)"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:29
+msgid "More event ideas can be found :doc:`here <events>`!"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:33
+msgid "Getting the word out"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:35
+msgid ""
+"Email the organizers of other tech meetup groups to ask them to help "
+"advertise your event."
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:36
+msgid ""
+"Put posters up at universities, or contact the CS student society.  Ask "
+"the department secretary to contact grad students."
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:37
+msgid "Partner with other groups for jointly hosted events"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:38
+msgid "Get business cards to hand out at events"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:39
+msgid "Set up a Twitter account"
+msgstr ""
+
+#: ../../organizer/eventhosting/ideas.rst:41
+msgid "More details on how to promote your events :doc:`here <promotion>`!"
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:4
+msgid "Promotion"
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:7
+msgid ""
+"One benefit of creating a PyLadies local group is having access to a "
+"worldwide support network of PyLadies who can help you spread word about "
+"your events."
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:12
+msgid "How to promote your events locally"
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:14
+msgid "Do the following:"
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:16
+msgid ""
+"Post an event description on your `meetup.com <http://meetup.com>`_ page "
+"or website."
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:18
+msgid "Announce the event via your mailing list."
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:19
+msgid ""
+"Create event flyers and distribute them at meetups, Python user group "
+"meetings, work, and the local universities. See [upload example or "
+"template to git repo] for an example."
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:22
+msgid ""
+"Approach the career offices and engineering/science departments of local "
+"colleges and universities."
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:24
+msgid ""
+"Contact old professors and teachers. Tell them about what you’re doing; "
+"they’ll be glad to hear from you. Ask to make an announcement to their "
+"current students at the start of their classes, or as an email."
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:28
+msgid ""
+"Attend local tech/Python meetups. Be an active part of the local "
+"developer community. Show that you care about getting more women into "
+"Python development and programming in general. Be humble and ask for help"
+" from the group."
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:34
+msgid "How we can help"
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:36
+msgid ""
+"Email the main point of contact for any of the following channels, and "
+"provide text and/or images for us to use:"
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:39
+msgid ""
+"Global PyLadies Newsletter: Good for announcements about meetups. "
+"Subscribers from all over the world. Please keep the text brief and "
+"include an image. (info@pyladies.com)"
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:42
+msgid ""
+"PyLadies blog: we would love for you to contribute posts to our blog! "
+"It's as simple as forking and then making a pull request off "
+"http://github.com/pyladies/pyladies"
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:46
+msgid ""
+"In addition, promote all of your events directly through the following: "
+"6. PyLadies Google group: http://groups.google.com/group/pyladies 7. "
+"#pyladies IRC channel (FreeNode)"
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:50
+msgid ""
+"Whenever you have news of interest to the PyLadies community, all the "
+"above channels are available to help you make your announcement. We are "
+"always looking for good quotes and photos from Python developer women."
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:56
+msgid "Guidelines for using the PyLadies promotion channels"
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:58
+msgid ""
+"Anything of interest to women in the Python community can be posted in "
+"the various PyLadies channels, provided that it meets these guidelines:"
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:61
+msgid "**Send us the actual text that you want posted.**"
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:62
+msgid "For local PyLadies local group events:"
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:64
+msgid ""
+"Send text for as many events as possible to the channels listed above. "
+"The more we can promote your events, the better."
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:66
+msgid "For non-local-group events and general postings:"
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:68
+msgid ""
+"Postings should be relevant to women.  Mention the women organizing "
+"and/or attending the event.  Have their names link to their websites or "
+"Twitter accounts."
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:71
+msgid ""
+"Don't just reuse the same blurb that you use everywhere; customize it to "
+"be relevant to the specific audience you're addressing."
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:73
+msgid ""
+"We'd love to use the various channels to feature what PyLadies from "
+"everywhere are doing.  If you know of someone who should be featured, you"
+" can write up something interesting for the blog, Twitter stream, etc."
+msgstr ""
+
+#: ../../organizer/eventhosting/promotion.rst:76
+msgid ""
+"If you are hosting a Python community event or conference and need our "
+"help getting more women to attend, submit proposals, etc., a heartfelt "
+"explanation about why more women should attend and feel welcome goes a "
+"long way. A PyLadies discount code also helps: keep in mind that a huge "
+"part of our audience are students/those just starting out professionally "
+"with Python, who cannot afford to commit to events or submit proposals "
+"unless there is a known, guaranteed PyLadies discount."
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:4
+msgid "DjangoZoom Beginner Walkthrough"
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:6
+msgid ""
+"This is a walkthrough of deploying "
+"https://github.com/pyladies/djangotutorial"
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:9
+msgid "Deploying from your repo"
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:11
+msgid "Log into djangozoom.com."
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:13
+msgid "Go to My Projects. Click [Add a new project »]"
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:15
+msgid ""
+"Under New Project > Repo url, enter something like "
+"git@github.com:pyladies/djangotutorial.git"
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:17
+msgid "Click [Checkout code & continue]"
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:19
+msgid ""
+"Check that your configuration matches your project, making changes if "
+"needed. (For https://github.com/pyladies/djangotutorial, the default "
+"values work as-is.)"
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:21
+msgid "Scroll all the way down. Click [Deploy project]"
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:23
+msgid ""
+"It should say \"Working...\" Wait for it to finish.  It should change to "
+"\"Job succeeded, deployed at http://p00000333.djangozoom.net\"."
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:25
+msgid ""
+"(Note: if it fails, check your configuration. Ask for help in #djangozoom"
+" - they're nice)"
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:27
+msgid ""
+"Open whatever URL you were given in a new browser tab.  Congrats, your "
+"project is now live on the web!"
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:30
+msgid "Domain names"
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:32
+msgid ""
+"To set your domain name, click [Custom Hostnames] and follow the "
+"instructions."
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:35
+msgid "Accessing the Django admin"
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:37
+msgid ""
+"Finally, to access your site's Django admin, click [Create Superuser].  "
+"Enter a password that you'll be able to remember and click [Create "
+"Superuser Account]."
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/djangozoom.rst:39
+msgid ""
+"Then go to your site's Django admin (something like "
+"http://p00000333.djangozoom.net/admin/) and log in with your superuser "
+"name/password."
+msgstr ""
+
+#: ../../organizer/eventhosting/resources/index.rst:2
+msgid "Event Hosting Resources"
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:2
+msgid "Sponsors"
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:8
+msgid "Finding Sponsors/Raising Funds"
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:10
+msgid ""
+"If your group is small, you don’t necessarily need sponsors. Hosting "
+"meetups at coffee shops, restaurants, or people’s houses is fine."
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:12
+msgid ""
+"However, you may want to organize trips, conferences, and other types of "
+"more costly events. If so, you will need to raise local group funds and "
+"ask local Python shops to consider sponsoring an event."
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:15
+msgid "Venue Sponsors"
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:16
+msgid ""
+"Research local companies and approach them. Often, a company that already"
+" hosts other meetups will be willing to host your PyLadies group. Ask "
+"them if they’ll provide pizza/drinks; if not, charge attendees a fee that"
+" covers food (and more, if you want to use the funds for future events)."
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:19
+msgid "Fiscal Sponsorship from the PSF"
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:21
+msgid ""
+"The `Python Software Foundation <http://python.org/psf>`_ has been very "
+"supportive of PyLadies.  They have a `special donation page "
+"<https://psfmember.org/civicrm/contribute/transact?reset=1&id=6>`_,  "
+"where donors can use PayPal to make donations directly to the PSF that "
+"are tax-deductible, which can then be used to reimburse PyLadies "
+"organizers who pay for various event costs."
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:25
+msgid "PSF Grant Programs"
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:27
+msgid ""
+"See our sample :doc:`PSF grant proposal <grant-proposals/sample-"
+"hackathon>` to raise money for t-shirts, tables, and chairs."
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:29
+msgid ""
+"You can apply for a Python Sprints grant to raise money for food, power "
+"strips, name tags, and anything else you might need to run a "
+"sprint/hackathon, up to $300:"
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:33
+msgid "Selling t-shirts/merchandise"
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:35
+msgid ""
+"Some PyLadies designs and printing instructions are provided with this "
+"kit. The cost is roughly $500-750 for 60 shirts. Shirts can be sold for "
+"$20 each (you can adjust the price to meet your needs/currency, of "
+"course)."
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:37
+msgid ""
+"See the “T-Shirts, Stickers, and Other Merchandise” section for more "
+"details."
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:40
+msgid "Corporate sponsorship"
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:42
+msgid ""
+"Many companies are looking for ways to give back to the developer "
+"community. You’ll want to put together a corporate sponsor info packet."
+msgstr ""
+
+#: ../../organizer/eventhosting/sponsors.rst:44
+msgid ""
+"See our sample info packet at upload sponsorship doc to git repo. Borrow "
+"ideas from it, and customize it to fit your group."
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:4
+msgid "Beginner Talk"
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:6
+msgid ""
+"This document was originally created by Michelle Rowley (@pythonchelle) "
+"for the PDX Python User Group. If you want to discus these ideas further,"
+" she would love to hear from you."
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:10
+msgid ""
+"Thanks for being willing to do a beginner talk! Here are some guidelines "
+"that you may find helpful as you prepare your talk. They’re not rules by "
+"any means, but intended to guide the framing of your message and "
+"presentation."
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:15
+msgid "Goals of Beginner Talks"
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:17
+msgid "Create a place for beginners in the group."
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:18
+msgid "Make beginners feel comfortable being at the presentation meeting."
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:19
+msgid "Share a little bit of new knowledge with beginners."
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:21
+msgid ""
+"Giving a beginner talk at PDX Python is very different from giving an "
+"intermediate or advanced talk. The intended audience of an intermediate "
+"or advanced Python talk already knows quite a bit of Python. This allows "
+"them to feel like they belong in the room. Beginners who come to the "
+"presentation meetings are likely to feel extremely intimidated and "
+"uncomfortable (if we can get them to come at all). Tech meetups are a "
+"unique creature, unfamiliar to new programmers coming from non-CS "
+"backgrounds."
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:29
+msgid ""
+"The most important goal of a beginner talk, therefore, is to make the "
+"newbies in the room feel like they are welcome. Unlike intermediate or "
+"advanced talks, in which the unique goal is to pass on chunks of "
+"knowledge, beginner talks pass on some information as a secondary goal. "
+"In these talks the sharing of information is the tool by which we make "
+"beginners feel comfortable."
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:36
+msgid "Content + Delivery"
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:38
+msgid ""
+"Since the main goal is to welcome and encourage beginners, the tone of "
+"the talk will be different. Rather than striving to be as technical as "
+"possible, the content should be made very plain with real-world examples "
+"to clarify core concepts. In some cases, the content may not be code-"
+"related at all. For example, a great beginner talk could focus on the "
+"extremely basic fundamentals of the inner workings of a web application, "
+"showing exactly where in the process a web programmer would be writing "
+"code."
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:46
+msgid ""
+"Be careful to think about the various pieces that a newbie might not "
+"know, including all the information necessary to understand the concepts."
+" Assumptions of prior knowledge can leave beginners confused and "
+"disheartened. They'll be much more encouraged if you tell them something "
+"they already know than if you skip pieces they don't know!"
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:52
+msgid ""
+"Some things that are normally interesting during intermediate and "
+"advanced talks become inappropriate for beginner talks. Nothing alienates"
+" beginners more than terminology they haven't heard or don't understand. "
+"Questions may be posed by more experienced members that attempt to take "
+"the content to a deeper or more technical level. This shifts the focus of"
+" the talk to the old-hat audience, something that should be avoided at "
+"all cost. These questions should be politely deferred as they do not "
+"support the goal of the talk: to make beginners feel comfortable and "
+"welcome."
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:61
+msgid ""
+"It's very important when giving a beginner tech talk not to be "
+"condescending or seeming to \"talk down\" to the intended audience. Have "
+"the patience of a saint with any questions, no matter how simple they "
+"are. Take the time to explain and to check for understanding in a "
+"friendly way. If they don't understand, we haven't taught them well "
+"enough. Feel free to try explaining it again. There are no time "
+"constraints on beginner talks."
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:69
+msgid "Thank You, Awesome Ambassador"
+msgstr ""
+
+#: ../../organizer/eventhosting/talks/beginner.rst:71
+msgid ""
+"Beginners are precious resources with whom we've got to be careful and "
+"gentle. The appreciation you'll get back from a well-treated newbie who "
+"gains understanding from what you share is an unbeatable reward. You’re "
+"also helping to diversify and grow the Python community, which will make "
+"it better for everyone. Good luck + have fun. :)"
+msgstr ""
+
+#: ../../organizer/faqs.rst:2
+msgid "FAQs"
+msgstr ""
+
+#: ../../organizer/faqs.rst:7
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../../organizer/faqs.rst:10
+msgid "Can men attend local PyLadies group events?"
+msgstr ""
+
+#: ../../organizer/faqs.rst:12
+msgid ""
+"It’s up to you. Generally, it’s good to hold women-only events as well as"
+" events for both genders (either women and +1 guests, or anyone who wants"
+" to attend). Just be aware that the dynamic of the room tends to change "
+"when the male:female ratio becomes lopsided."
+msgstr ""
+
+#: ../../organizer/faqs.rst:14
+msgid ""
+"A good way to hold a mixed-gender event is to partner with a local Python"
+" user group."
+msgstr ""
+
+#: ../../organizer/faqs.rst:16
+msgid ""
+"Be extra-clear in your event description about whether men are "
+"allowed/what the rules are -- it will save you a lot of time, and prevent"
+" awkward conversations."
+msgstr ""
+
+#: ../../organizer/faqs.rst:19
+msgid "Is there anything like PyLadies specifically for men?"
+msgstr ""
+
+#: ../../organizer/faqs.rst:21
+msgid ""
+"There doesn’t seem to be a burning need for a PyLadies for Men ;) That "
+"said, if you’re a man and want to start a similar group, we’ll support "
+"you. You can even make PyLadies knock-off t-shirts. One enterprising gent"
+" has printed “PyLaddies” shirts, and there is an IRC channel on Freenode,"
+" #pygents, for the men who love PyLadies =)"
+msgstr ""
+
+#: ../../organizer/faqs.rst:24
+msgid "Can I use the PyLadies logo and graphics for any purpose?"
+msgstr ""
+
+#: ../../organizer/faqs.rst:26
+msgid ""
+"Any of the graphics at `https://github.com/pyladies/pyladies-kit "
+"<https://github.com/pyladies/pyladies-kit>`_ can be used for your own "
+"group promotion. Feel free to use them for websites, printed materials, "
+"t-shirts, and anything else that benefits your group."
+msgstr ""
+
+#: ../../organizer/faqs.rst:28
+msgid ""
+"Even if you don’t have an official group, you can use the graphics for "
+"anything women-in-Python related, as long as any funds resulting from "
+"your use of the graphics go toward Python gender diversity initiatives."
+msgstr ""
+
+#: ../../organizer/faqs.rst:32
+msgid "Can transgender women be PyLadies?"
+msgstr ""
+
+#: ../../organizer/faqs.rst:34
+msgid ""
+"Anyone who considers herself a lady and does Python is a PyLady/Python "
+"lady. We support all women, whether female by birth or not."
+msgstr ""
+
+#: ../../organizer/faqs.rst:36
+msgid ""
+"We encourage you sure to make trans women feel welcome by saying so in "
+"your meetup group and event descriptions. Here is an example of a "
+"statement you could include:"
+msgstr ""
+
+#: ../../organizer/faqs.rst:38
+msgid ""
+"PyLadies [city] is welcoming to and respectful of trans women. We "
+"encourage all women to come out to our meetups."
+msgstr ""
+
+#: ../../organizer/faqs.rst:41
+msgid ""
+"If the idea of trans people is new to you, you might want to take a look "
+"at `this fantastic illustrated book about gender "
+"<http://www.thegenderbook.com>`_, `this comic "
+"<http://www.roostertailscomic.com/?p=1495>`_, or any of the many other "
+"introductions to trans issues on the internet."
+msgstr ""
+
+#: ../../organizer/faqs.rst:44
+msgid "Is your goal to segregate by gender?"
+msgstr ""
+
+#: ../../organizer/faqs.rst:46
+msgid ""
+"No! PyLadies and local PyLadies groups are about making the Python "
+"community explicitly welcoming and accessible to women."
+msgstr ""
+
+#: ../../organizer/faqs.rst:48
+msgid ""
+"Women who wouldn’t otherwise attend a Python user group meeting often "
+"attend local PyLadies group events, as a gateway to getting involved with"
+" Python programming as a beginner, or getting more involved in the Python"
+" community as an intermediate/advanced developer."
+msgstr ""
+
+#: ../../organizer/faqs.rst:51
+msgid "How do I set up reimbursement for Meetup fees?"
+msgstr ""
+
+#: ../../organizer/faqs.rst:53
+msgid ""
+"The PSF will `most likely reimburse <http://pyfound.blogspot.com/2012/03"
+"/user-groups-psf-can-help-cover-your.html>`_ your Meetup.com organizer "
+"fees for a local Pyladies meetup. You can submit a grant proposal, and "
+":doc:`here <grants/sample-meetup-proposal>` is a sample grant proposal to"
+" get you started."
+msgstr ""
+
+#: ../../organizer/faqs.rst:57
+msgid "What if my question isn’t answered here?"
+msgstr ""
+
+#: ../../organizer/faqs.rst:59
+msgid ""
+"Ask in IRC #pyladies on `freenode <http://irc.freenode.net>`_ if you "
+"must. But feel free to organize your PyLadies group however you wish, and"
+" make it completely your own. We’re here to help you, not to limit you or"
+" control your plans."
+msgstr ""
+
+#: ../../organizer/global/index.rst:2
+msgid "Global PyLadies Community"
+msgstr ""
+
+#: ../../organizer/global/index.rst:5
+msgid "About"
+msgstr ""
+
+#: ../../organizer/global/index.rst:7
+msgid ""
+"The global PyLadies community has no formal organization behind it; no "
+"board of directors, no appointed leadership.  We found that PyLadies "
+"growth and success stems from being decentralized and non-bureaucratic."
+msgstr ""
+
+#: ../../organizer/global/index.rst:9
+msgid ""
+"We do have a few point people that can answer and address general, or "
+"non-location specific PyLadies questions.  If you are not a local "
+"PyLadies leader, you may do so via our `general email`_.  If you are a "
+"local PyLadies leader, you may email our `organizers list`_ (must be "
+"added to the `mailing list`_ first)."
+msgstr ""
+
+#: ../../organizer/global/index.rst:12
+msgid "Mailing List"
+msgstr ""
+
+#: ../../organizer/global/index.rst:14
+msgid ""
+"We have a `global mailing list`_ in which anyone can join. Be sure to "
+"fill out the one request:"
+msgstr ""
+
+#: ../../organizer/global/index.rst:16
+msgid ""
+"To be approved, please give a 1-5 sentence bio about yourself, how you "
+"heard about PyLadies, and/or how you use Python."
+msgstr ""
+
+#: ../../organizer/global/index.rst:19
+msgid "The mailing list is subject to the PyLadies :doc:`../difficult/coc`."
+msgstr ""
+
+#: ../../organizer/global/index.rst:22
+msgid "Newsletter"
+msgstr ""
+
+#: ../../organizer/global/index.rst:24
+msgid ""
+"The Pyladies global newsletter is sent out as regularly as we can make "
+"it; all work is voluntary, and all information is volunteered! Everyone "
+"who subscribes via the email form on  http://www.pyladies.com will "
+"receive the newsletter."
+msgstr ""
+
+#: ../../organizer/global/index.rst:28
+msgid "Contributing"
+msgstr ""
+
+#: ../../organizer/global/index.rst:29
+msgid ""
+"The editor of an upcoming issue of the PyLadies global newsletter might "
+"make an effort to gather info about all the local groups via a message to"
+" the organizers mailing list, but the onus is on each group's "
+"organizer(s) to send any updates about a group to the editor if they want"
+" to be included."
+msgstr ""
+
+#: ../../organizer/global/index.rst:33 ../../organizer/website/location.inc:23
+msgid "Editing"
+msgstr ""
+
+#: ../../organizer/global/index.rst:35
+msgid ""
+"If you'd like to volunteer to edit the next issue, all you have to do is "
+"shoot an email to the organizers mailing list! Warning: it's a lot of "
+"work!  We use Mailchimp."
+msgstr ""
+
+#: ../../organizer/global/policies.rst:2
+msgid "Policies"
+msgstr ""
+
+#: ../../organizer/global/policies.rst:4
+msgid ""
+"We try not to have too many rules and regulations (everything else in "
+"this kit has been nothing more than advice we offer to make things easier"
+" for you, given that we learned much of it the hard way). Generally, "
+"local group organizers are free to do whatever they want, as long as it’s"
+" in the best interest of their local group and/or PyLadies in general."
+msgstr ""
+
+#: ../../organizer/global/policies.rst:6
+msgid ""
+"The following policies have been written up so that you may simply copy "
+"and paste them into email responses, to help you deal with awkward or "
+"tricky situations."
+msgstr ""
+
+#: ../../organizer/global/policies.rst:9
+msgid "Trademark"
+msgstr ""
+
+#: ../../organizer/global/policies.rst:11
+msgid ""
+"PyLadies and the PyLadies logo are trademarks of the Python Software "
+"Foundation. For usage guidelines, please read :doc:`../../misc/logo`."
+msgstr ""
+
+#: ../../organizer/global/policies.rst:23
+msgid "Guest Policy"
+msgstr ""
+
+#: ../../organizer/global/policies.rst:25
+msgid ""
+"(If anyone asks to stay with you in the future other than a trusted "
+"friend, say something like \"I wish we could accommodate you, but "
+"PyLadies has a strict policy of not allowing members to host out-of-town "
+"guests\" and then paste this, minus the parenthetical note.)"
+msgstr ""
+
+#: ../../organizer/global/policies.rst:28
+msgid ""
+"In the interest of safety and security of our members, PyLadies "
+"organizers, volunteers, and members are not permitted to host overnight "
+"out-of-town guests who wish to visit town for PyLadies events."
+msgstr ""
+
+#: ../../organizer/global/policies.rst:30
+msgid ""
+"This is a strict formal policy, chosen to ensure that the PyLadies "
+"organization continues to be taken seriously and treated with complete "
+"respect by the professional software and tech communities."
+msgstr ""
+
+#: ../../organizer/global/policies.rst:33
+msgid "Controversial Issues"
+msgstr ""
+
+#: ../../organizer/global/policies.rst:35
+msgid ""
+"As a PyLadies local group organizer, you may be asked for PyLadies’ "
+"position on controversial issues. Often, these are diversity-related "
+"issues."
+msgstr ""
+
+#: ../../organizer/global/policies.rst:37
+msgid ""
+"PyLadies’ policy is to have no official position on controversial issues."
+" By choosing this policy, we allow ourselves to be a group full of "
+"diverse ideas and differing viewpoints."
+msgstr ""
+
+#: ../../organizer/global/pycon.rst:2
+msgid "PyLadies @ PyCon"
+msgstr ""
+
+#: ../../organizer/grants/sample-meetup-proposal.rst:4
+msgid "Python Software Foundation Grant Proposal"
+msgstr ""
+
+#: ../../organizer/grants/sample-meetup-proposal.rst:6
+msgid "Month Year"
+msgstr ""
+
+#: ../../organizer/grants/sample-meetup-proposal.rst:8
+msgid "LeaderFirst LeaderLastName Organizer, Pyladies Location email@email.com"
+msgstr ""
+
+#: ../../organizer/grants/sample-meetup-proposal.rst:10
+msgid ""
+"**Grant Proposal:** $72 to cover the cost of Pyladies Location’s "
+"Meetup.com subscription for six months, August 2014 through January 2015."
+msgstr ""
+
+#: ../../organizer/grants/sample-meetup-proposal.rst:14
+msgid ""
+"**Grant Objective:** Fund the use of Meetup.com for organizing and "
+"managing Pyladies Madison for a six month period. Meetup.com helps to "
+"increase the visibility of the user group, as well as boost attendance "
+"through automated reminders, RSVP functionality, and other tools. It also"
+" makes organizing and promoting the group easier, as well as providing a "
+"platform to garner sponsorships and thank sponsors publicly."
+msgstr ""
+
+#: ../../organizer/grants/sample-meetup-proposal.rst:21
+msgid ""
+"**Grant Size:** $72 total, which is the cost of 6 months to organize a "
+"group on Meetup.com."
+msgstr ""
+
+#: ../../organizer/grants/sample-meetup-proposal.rst:24
+msgid ""
+"**Grant Beneficiaries:** Pyladies Madison is one of the newest groups of "
+"Pyladies. The Meetup.com account is a critical piece of getting the group"
+" off of the ground. The site is already used widely by other Tech Meetup "
+"groups in the Madison area and is one of the first places people will "
+"look for new meetup opportunities. Meetup.com is a well-known site for "
+"people looking for like-minded individuals, providing us good visibility "
+"for new members. It also cross-promotes groups to each other, encouraging"
+" members of other tech groups to consider joining ours."
+msgstr ""
+
+#: ../../organizer/grants/sample-meetup-proposal.rst:33
+msgid ""
+"Meetup.com provides a centralized location where our members see what’s "
+"coming up and who has RSVPed for the meeting. Members can also leave "
+"comments about the group itself."
+msgstr ""
+
+#: ../../organizer/grants/sample-meetup-proposal.rst:37
+msgid "**Preferred method of funds delivery:**"
+msgstr ""
+
+#: ../../organizer/grants/sample-meetup-proposal.rst:39
+msgid "A check written out to:"
+msgstr ""
+
+#: ../../organizer/grants/sample-meetup-proposal.rst:41
+msgid "Organizer Name Organizer Address"
+msgstr ""
+
+#: ../../organizer/index.rst:2
+msgid "Current Organizers"
+msgstr ""
+
+#: ../../organizer/index.rst:6
+msgid "Handy Links"
+msgstr ""
+
+#: ../../organizer/index.rst:15
+msgid "Event Hosting"
+msgstr ""
+
+#: ../../organizer/index.rst:28
+msgid "Admin Stuff"
+msgstr ""
+
+#: ../../organizer/index.rst:38
+msgid "Global Organization"
+msgstr ""
+
+#: ../../organizer/index.rst:48
+msgid "Miscellaneous Helpful Stuff"
+msgstr ""
+
+#: ../../organizer/index.rst:58
+msgid "Difficult Stuff"
+msgstr ""
+
+#: ../../organizer/logos.rst:2
+msgid "Logos"
+msgstr ""
+
+#: ../../organizer/logos.rst:4
+msgid ""
+"Please read our :doc:`logo usage policy <../misc/logo>`, but in general, "
+"we want the logo to be used as widely as possible to indicate the support"
+" of or involvement with PyLadies. If you are a local PyLadies leader, you"
+" are free to adapt the logo to your location.  (Non-leaders, please "
+"`ask`_ first when using a derived version of the logo or when in doubt)."
+msgstr ""
+
+#: ../../organizer/logos.rst:6
+msgid ""
+"TL;DR is that any of the graphics in our `PyLadies assets repo`_ can be "
+"used for your own group promotion and/or to show your support.  You may "
+"also alter the PyLadies Wordmark or PyLadies Geek logo to adapt it to "
+"your location. Check out examples on our `locations site "
+"<http://www.pyladies.com/locations>`_."
+msgstr ""
+
+#: ../../organizer/logos.rst:8
+msgid ""
+"Logos used with the intention to sell merchandise, please seek permission"
+" from the `PyLadies leadership`_ to help setup."
+msgstr ""
+
+#: ../../organizer/logos.rst:10
+msgid ""
+"There is \"official\" merchandise sold - with proceeds going towards "
+"PyLadies - at our own `spreadshirt site`_.  It's probably better to go "
+"with a bulk t-shirt printer if buying more than a few t-shirts though.  "
+"You're free to choose a printer that you like or that may be local.  "
+"We've had good luck with `Elegant Stitches`_ (who printed the PyCon 2015 "
+"t-shirt) and `Custom Ink`_."
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:2
+msgid "New Organizer Reference"
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:6
+msgid "Email & Google Apps"
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:8
+msgid ""
+"All PyLadies locations will have their own general email address (e.g. "
+"``nyc@pyladies.com``).  You and your other co-organizers can manage that "
+"email address how you'd like (e.g. all co-organizers can log in; all "
+"email is forwarded; only one organizer manages it; etc)."
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:10
+msgid ""
+"The ``@pyladies.com`` email account management is setup with Google Apps."
+" Therefore, every ``@pyladies.com`` address also has Google Drive.  We "
+"**highly** encourage you to use Google Drive for form collection of any "
+"sort, document management, etc."
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:12
+msgid ""
+"You can also leverage the Google Apps account with your own local Google+"
+" Community/Profile page, Google Contacts & Calendar, and the like."
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:14
+msgid ""
+"It is also good practice to keep personal and PyLadies communications "
+"separate.  You can easily do this if you use the Chrome browser and setup"
+" `two separate profiles`_ - one for personal and one for PyLadies."
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:22
+msgid "Account & Password Management"
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:24
+msgid ""
+"Please sign up for all accounts related to your PyLadies location with "
+"the ``@pyladies.com`` email address.  This is so that handover to a "
+"future organizer is a lot smoother, and account recovery is easier."
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:27
+msgid ""
+"We highly suggest you use a unique password for each account you use for "
+"your PyLadies location.  `LastPass`_ is a password manager (so you don't "
+"have to remember every unique password) that allows you to create unique "
+"and difficult-to-guess passwords, as well as save them for you."
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:29
+msgid ""
+"`LastPass`_ also allows you to `share`_ passwords with folks; so you can "
+"setup your local PyLadies Facebook account, then store that password in "
+"`LastPass`_, and allow your co-organizers to log in with that stored "
+"password by sharing it."
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:37
+msgid "Social Media"
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:39
+msgid ""
+"You are free and encouraged to use any social media that you'd like (be "
+"sure to register the account with your ``@pyladies.com`` email address! "
+"See :ref:`acctmgmt`)."
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:41
+msgid ""
+"Be sure to fill out the `PyLadies Resource Form`_ for data collection so "
+"we can be aware of your local \"footprint\" - both for PSF trademark "
+"reasons (to know if the use of the PyLadies name is legitimate) and for "
+"account recovery/handover process."
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:47
+msgid "Logo Use & Adaptation"
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:49
+msgid ""
+"You may of course use the PyLadies Wordmark and PyLadies Geek logos for "
+"promotion, and/or alter them to adapt to your location.  Check out our "
+"locations_ page for inspiration."
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:51
+msgid ""
+"Please read our :doc:`../misc/trademark`, especially if you plan on using"
+" the logos to print merchandise for sale."
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:56
+msgid "Global Website"
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:58
+msgid ""
+"When you're ready to go public, you should add yourself to the PyLadies "
+"locations_ page.  Please head over to :doc:`website/global` to get "
+"started!"
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:62
+msgid "Local Website"
+msgstr ""
+
+#: ../../organizer/neworganizer.rst:64
+msgid ""
+"Have a few minutes?  Or want to make a local event around creating your "
+"local PyLadies website?  Awesome!  Please head over to "
+":doc:`website/local` to get started!"
+msgstr ""
+
+#: ../../organizer/swag.rst:2
+msgid "Swag"
+msgstr ""
+
+#: ../../organizer/swag.rst:7
+msgid "Swag: T-Shirts, Stickers, and Other Merchandise"
+msgstr ""
+
+#: ../../organizer/swag.rst:9
+msgid ""
+"Currently, T-shirts are available via `Spreadshirt "
+"<http://pyladies.spreadshirt.com/>`_. Proceeds from the shop benefit the "
+"PyLadies organization and go toward things like nonprofit corporation "
+"setup, helping new local groups, servers, etc."
+msgstr ""
+
+#: ../../organizer/swag.rst:11
+msgid ""
+"Sometimes we also create limited runs of T-shirts, stickers, etc. Check "
+"the blog or ask around in IRC #pyladies if you’re interested in seeing "
+"what we have."
+msgstr ""
+
+#: ../../organizer/swag.rst:14
+msgid "Local group merchandise"
+msgstr ""
+
+#: ../../organizer/swag.rst:16
+msgid ""
+"If you’d like to create merchandise for your own local group, you can "
+"create a shop on Spreadshirt, Zazzle, or any other print-on-demand site "
+"and have the proceeds go toward your local group."
+msgstr ""
+
+#: ../../organizer/swag.rst:18
+msgid "Or you can have a local print shop print a small run."
+msgstr ""
+
+#: ../../organizer/website/global.rst:2
+msgid "Developing on the Global PyLadies Website"
+msgstr ""
+
+#: ../../organizer/website/global.rst:12
+msgid "Setup your Machine"
+msgstr ""
+
+#: ../../organizer/website/global.rst:14
+msgid "To make *any* changes, let's setup your machine first."
+msgstr ""
+
+#: ../../organizer/website/global.rst:16
+msgid ""
+"`Fork`_ the `pyladies/pyladies`_ repository to your own (or your local "
+"PyLadies) GitHub account."
+msgstr ""
+
+#: ../../organizer/website/global.rst:17 ../../organizer/website/local.rst:52
+msgid "Locally clone **your** fork of the repository."
+msgstr ""
+
+#: ../../organizer/website/global.rst:18
+msgid ""
+"Create a new `virtualenv`_.  Within that virtualenv, run ``pip install -r"
+" requirements.txt``."
+msgstr ""
+
+#: ../../organizer/website/global.rst:22
+msgid "Adding your Location"
+msgstr ""
+
+#: ../../organizer/website/location.inc:3
+msgid ""
+"Nearly all locations are listed on our locations_ page.  To get listed on"
+" there, **you** must put it there. :-)"
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:70 ../../organizer/website/local.rst:45
+#: ../../organizer/website/local.rst:134 ../../organizer/website/location.inc:6
+msgid "Process"
+msgstr ""
+
+#: ../../organizer/website/location.inc:8
+msgid "Setup your machine following the :ref:`setupenv` instructions above."
+msgstr ""
+
+#: ../../organizer/website/location.inc:9
+msgid ""
+"Within the ``www`` directory, make an edit to the ``config.yml`` file.  "
+"More about the ``config.yml`` file structure :ref:`below <config>`."
+msgstr ""
+
+#: ../../organizer/website/location.inc:10
+msgid ""
+"**Optional:** If you don't have a website setup yet, you can make a "
+"simple static page within ``www/locations/``.  Read :ref:`simplepage` for"
+" more information."
+msgstr ""
+
+#: ../../organizer/website/location.inc:11
+msgid ""
+"Test your changes by running ``mynt gen -f _site && mynt serve _site`` "
+"(**within** the ``www`` directory)."
+msgstr ""
+
+#: ../../organizer/website/local.rst:56 ../../organizer/website/location.inc:12
+msgid "Commit the code locally, and push it up to **your** fork."
+msgstr ""
+
+#: ../../organizer/website/local.rst:57 ../../organizer/website/location.inc:13
+msgid "Make a pull request against the ``pyladies/pyladies`` repository."
+msgstr ""
+
+#: ../../organizer/website/location.inc:18
+msgid "config.yml File"
+msgstr ""
+
+#: ../../organizer/website/location.inc:20
+msgid ""
+"The `config.yml`_ file contains most (if not all) of the configuration "
+"for the main PyLadies website."
+msgstr ""
+
+#: ../../organizer/website/location.inc:25
+msgid ""
+"To make your location show up on our locations_ page, create an entry "
+"under ``chapters``."
+msgstr ""
+
+#: ../../organizer/website/location.inc:29
+msgid "Please - maintain alphabetical order of the ``chapters`` listing!!"
+msgstr ""
+
+#: ../../organizer/website/location.inc:32
+msgid ""
+"Here are the available configuration items you can set, and what they "
+"mean/show up as on the locations_ page."
+msgstr ""
+
+#: ../../organizer/website/location.inc:34
+msgid "A complete example:"
+msgstr ""
+
+#: ../../organizer/website/location.inc:50
+msgid ""
+"Make sure a tick, ``-`` precedes the ``name:`` attribute (in ``yaml`` "
+"syntax, it symbolizes another item in a list)."
+msgstr ""
+
+#: ../../organizer/website/location.inc:52
+msgid "It shows up on the locations_ page as its own little \"card\":"
+msgstr ""
+
+#: ../../organizer/website/location.inc:63
+msgid "Attributes"
+msgstr ""
+
+#: ../../organizer/website/location.inc:67
+msgid ""
+"**required** The ``name`` attribute sets the name to show up on the "
+"locations_ page.  You can as verbose or minimal as you'd like:"
+msgstr ""
+
+#: ../../organizer/website/location.inc:78
+msgid ""
+"**optional** The ``meetup_id`` actually corresponds to the Meetup Widget "
+"on the website.  The code for the Meetup Widget can be found `here "
+"<https://github.com/pyladies/pyladies/blob/master/www/_assets/js/meetup_widget.js>`_."
+msgstr ""
+
+#: ../../organizer/website/location.inc:90
+msgid ""
+"**optional** The ``website`` attribute is the absolute URL for the "
+"location's :doc:`website <local>`, or the relative URL for your "
+"location's :ref:`page <simplepage>` (e.g. ``atx`` for "
+"``pyladies.com/locations/atx``)."
+msgstr ""
+
+#: ../../organizer/website/location.inc:94
+msgid ""
+"If it is an absolute URL - e.g. it is **not** relative to the "
+"pyladies.com domain (e.g. ``pyladies.com/locations/atx``) but is a "
+"subdomain (e.g. ``atx.pyladies.com``), the ``external_website`` attribute"
+" **needs** to be set to ``True``."
+msgstr ""
+
+#: ../../organizer/website/location.inc:103
+msgid ""
+"**required if location has a subdomain** A boolean flag (if not set, will"
+" default to ``False``) for when the location has a subdomain."
+msgstr ""
+
+#: ../../organizer/website/location.inc:109
+msgid ""
+"**required** The ``image`` attribute is the filename of the location's "
+"image that should be placed in the ``www/_assets/images/`` directory.  "
+"You can use a standard one that's already in the repository, or adapt the"
+" logo to your location (see :doc:`../logos`)."
+msgstr ""
+
+#: ../../organizer/website/location.inc:119
+msgid "**required** The ``email`` attribute is the location's email address."
+msgstr ""
+
+#: ../../organizer/website/location.inc:132
+msgid ""
+"**optional** The ``twitter``, ``facebook``, ``google_plus``, and "
+"``github`` attributes are links to the location's handle/account.  You "
+"may set as many as you'd like, or none.  If your group uses other social "
+"media accounts that you want to publish, please read "
+":ref:`addingnewlinktypes`."
+msgstr ""
+
+#: ../../organizer/website/location.inc:142
+msgid ""
+"**optional** The ``meetup`` is the Meetup group's URL name - the string "
+"that comes after ``www.meetup.com/``.  If your group uses a different "
+"service than Meetup.com for event publishing (other than your own "
+"location's website), please read :ref:`addingnewlinktypes`."
+msgstr ""
+
+#: ../../organizer/website/location.inc:152
+msgid ""
+"**required** The ``location`` attribute is a map of ``latitude`` and "
+"``longitude``.  If this is set, it will add a pinpoint to the map at the "
+"top of the page.  It will automatically pull in all the information, too."
+msgstr ""
+
+#: ../../organizer/website/global.rst:30
+msgid "Adding New Link Types"
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:3
+msgid ""
+"If your location uses other social media accounts other than Twitter, "
+"Facebook, or GitHub (e.g.  WeChat, Tumblr, LinkedIn, Instagram, "
+"vkontakte, Renren, Mixi, whatever), or uses a different event publishing "
+"site/medium than Meetup.com (e.g. EventBrite), you're definitely able to "
+"publish that."
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:7
+msgid ""
+"Perhaps someone already has done the legwork to add an attribute for your"
+" particular site (and these docs aren't updated).  Save yourself some "
+"time and check the ``www/config.yml``.  You may only have to edit the "
+"config file then!"
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:10
+msgid "Step 1: Pick a Config Attribute"
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:12
+msgid ""
+"We'll do a full example.  Let's say that Twitter was not already there, "
+"and we wanted to add it."
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:14
+msgid ""
+"We should start by picking a good config attribute (similar to the "
+":ref:`attrs` above).  A good config attribute here would be simply "
+"``twitter``:"
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:23
+msgid "Step 2: Pick an Icon"
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:25
+msgid ""
+"We currently already use entypo_.  If you find an icon that you'd like to"
+" use that entypo_ already has, take note of its name.  You can do this by"
+" right-clicking the icon you like on the entypo_ site and select "
+"\"Inspect Element\" to see the name of it:"
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:32
+msgid ""
+"The icon name here would be ``twitter`` (not including the ``.svg`` or "
+"``images/``)."
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:34
+msgid ""
+"If entypo_ doesn't have an icon that matches your social network, or that"
+" you like, read on to :ref:`addingicons`."
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:38
+msgid ""
+"All the entypo_ icons (e.g. the actual pictures/fonts) are already in the"
+" PyLadies repository."
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:43
+msgid "Step 3: Add Icon to HTML Template"
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:45
+msgid ""
+"Next, in your text editor, open up the location's template file, "
+"``www/locations/index.html``. Then, where it says ``<h3 class=\"chpts "
+"social-icons\">`` add the Jinja template information."
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:47
+msgid "The following example uses the above ``twitter`` icon previously selected:"
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:56
+#, python-format
+msgid ""
+"The ``{% if chapter.twitter %}`` checks to see if there's a config "
+"attribute set for a chapter, and if it is, it will create a link using "
+"the value that is set."
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:58
+msgid ""
+"Notice ``<i class=\"twitter\"></i>`` - this will actually put the icon "
+"(named ``twitter``, which we figured out in the previous step) there, and"
+" make a link."
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:62
+msgid "Step 4: Add your Config, Commit, & Push!"
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:64
+msgid ""
+"Save your edits, and test to see if it looks okay (refer to "
+":ref:`usingmynt` for how to test your changes)."
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:66
+msgid ""
+"If all looks good, then commit, push to **your** fork of the PyLadies "
+"repository, then submit a pull request!"
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:71
+msgid "Adding non-Entypo Icons"
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:73
+msgid ""
+"If your icon isn't made by entypo_, you don't like any of them, or found "
+"an icon elsewhere (e.g. FontAwesome_), follow their instructions for "
+"setting up their icons."
+msgstr ""
+
+#: ../../organizer/website/newicons.inc:75
+#, python-format
+msgid ""
+"You still must follow :ref:`step3` for the icon to show up in the "
+"template.  The Jinja2 syntax is the same (e.g. ``{% if chapter.twitter "
+"%}`` or ``{{ chapter.twitter }}``), but the HTML to represent the icon "
+"itself may be different.  Again, refer to their particular instructions."
+msgstr ""
+
+#: ../../organizer/website/global.rst:38
+msgid "Making a Simple Location Page"
+msgstr ""
+
+#: ../../organizer/website/simple.inc:4
+msgid ""
+"Don't have time to make your :doc:`local`?  Not a problem - if you have a"
+" few minutes, you can make a simple \"place holder\" page."
+msgstr ""
+
+#: ../../organizer/website/simple.inc:6
+msgid ""
+"For the sake of having an example, let's say our new location is \"Foo "
+"City\""
+msgstr ""
+
+#: ../../organizer/website/simple.inc:8
+msgid ""
+"Create a directory within ``www/locations`` named after your location "
+"(this will be your URL path - e.g. ``www.pyladies.com/locations/foo``)."
+msgstr ""
+
+#: ../../organizer/website/simple.inc:9
+msgid "Create a new ``index.html`` within the directory you just created."
+msgstr ""
+
+#: ../../organizer/website/simple.inc:10
+msgid "Copy & edit the following HTML/Jinja template to the ``index.html`` file."
+msgstr ""
+
+#: ../../organizer/website/simple.inc:31
+msgid ""
+"Once your done, test how it looks (refer to :ref:`usingmynt` to see how)."
+"  Then commit your code, push to your fork of the repository, then open a"
+" pull request!  You can see what others have done within the "
+"``www/locations`` directory as well."
+msgstr ""
+
+#: ../../organizer/website/global.rst:46
+msgid "Blogging or Writing a Resource for the Main Website"
+msgstr ""
+
+#: ../../organizer/website/global.rst:48
+msgid ""
+"Want to write a blog post, or cross-post from your blog to PyLadies?  Or "
+"perhaps you wrote an awesome resource about how to get the most out of "
+"your favorite text editor, or how to setup your development environment "
+"for Django?  Fantastic!"
+msgstr ""
+
+#: ../../organizer/website/global.rst:52
+msgid "Making a Blog Post"
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:4
+msgid ""
+"We accept posts (from anyone!) for the PyLadies blog. Here is a guest "
+"post that you should read as samples of what we're looking for: `Get the "
+"Most Out of Your Conference-Going Experience`_."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:8
+msgid "Topics"
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:10
+msgid ""
+"We're looking for posts about Python and the ladies doing cool things "
+"with it. Our audience includes both experts and newer programmers. If "
+"you're writing a more expert level post, consider pointing newer "
+"programmers to resources to get started with."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:14
+msgid ""
+"We reserve the right to decline posts, or work to improve the work of the"
+" post."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:17
+msgid "Attribution"
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:19
+msgid ""
+"Cite your sources! Either link to them in your post, or the old-fashioned"
+" academic Chicago MLA style of \"quoting someone's work\"(FooPyLady) with"
+" an entry for \"FooPyLady\" at the bottom of your post (or any other MLA "
+"styling)."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:21
+msgid "**Also** Please include whether:"
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:23
+msgid "You want to be noted as the author"
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:24
+msgid "If so, what name you want to use"
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:25
+msgid ""
+"If we can link to you somehow, either through Twitter handle, email, or "
+"website."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:27
+msgid "Anonymous submissions are fine."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:30
+msgid "Length"
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:32
+msgid ""
+"Posts should be 500 words in length. If your post is much longer "
+"(thousands of words), consider whether it could be broken into two "
+"connected posts."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:35
+msgid "Images"
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:37
+msgid ""
+"If you wish to include images, they must be 500 pixels wide or less. You "
+"must own the images you're submitting, or they must be available under a "
+"Creative Commons license."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:39
+msgid ""
+"The Markdown_ syntax is a bit limiting when wanting to add style to the "
+"image.  Therefore, if you want to add style to it (e.g. different "
+"alignment than default, add a border, rounded corners, etc.) then just "
+"write plain HTML inside your Markdown document."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:48
+msgid "Formatting the Blog Post File"
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:50
+msgid ""
+"Write your guest post in Markdown and save it in the ``www/_posts`` "
+"directory."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:52
+msgid ""
+"Suggestion #1: Mou.app for mac is created for Markdown - gives you a "
+"preview while you write"
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:53
+msgid ""
+"Suggestion #2: `dillinger`_ is a web app that provides a live preview "
+"when you're writing in Markdown."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:54
+msgid "A `cheatsheet`_ for Markdown commands."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:55
+msgid ""
+"The very top of the blog post needs the following (including the three "
+"dashes before and after the layout/title/tags):"
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:72
+msgid "Setup your machine by following the :ref:`setupenv` instructions ."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:73
+msgid "Save the file in ``www/_posts``."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:74
+msgid ""
+"Test your changes locally. Start up mynt as per the :ref:`instructions "
+"below <usingmynt>`."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:75
+msgid ""
+"Make sure that your changes look good, and that there are no errors or "
+"formatting issues. If you find problems, stop mynt, make the changes, "
+"restart, and check the site again."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:76
+msgid ""
+"Commit your changes, and push to **your** fork of the "
+"`pyladies/pyladies`_ repository."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:77
+msgid "Create a pull request against the `pyladies/pyladies`_ repo."
+msgstr ""
+
+#: ../../organizer/website/blogpost.inc:79
+msgid ""
+"When you submit a pull request, everyone with commit access for Pyladies "
+"will see it.  You may also ping the `organizers list`_ for more eyes to "
+"review."
+msgstr ""
+
+#: ../../organizer/website/global.rst:58
+msgid "Writing a Resource"
+msgstr ""
+
+#: ../../organizer/website/addresource.inc:4
+msgid ""
+"If you want to write your own resources, like Barbara's `beginner "
+"workshop notes`_ or Juliana's `Mac setup`_, in addition to :ref:`the "
+"headers for blogging <blogheaders>`, you will need to add more items in "
+"the header portion, like so:"
+msgstr ""
+
+#: ../../organizer/website/addresource.inc:18
+msgid ""
+"Notice that ``pyladies`` and ``resources`` are required in for "
+"``category``."
+msgstr ""
+
+#: ../../organizer/website/addresource.inc:20
+msgid ""
+"Once done, save it in ``www/_posts/`` with the date and title in the name"
+" of the file, like so: ``2013-04-21-lynns-awesome-resource.md``.  The "
+"title portion of the filename, ``lynns-awesome-resource``, will end up "
+"being the URL of the post, e.g. ``pyladies.com/blog/lynns-awesome-"
+"resource``."
+msgstr ""
+
+#: ../../organizer/website/global.rst:64
+msgid "Developing the Main Website"
+msgstr ""
+
+#: ../../organizer/website/devmainsite.inc:3
+msgid ""
+"Is there some CSS inconsistency that's bugging you?  Is the site missing "
+"some accessibility?  Want to add a new page or content?  Cool!  Here's "
+"how to get started."
+msgstr ""
+
+#: ../../organizer/website/devmainsite.inc:7
+msgid ""
+"When changing the website or adding content - beyond adding your location"
+" information - it is a good idea to email the `organizers list`_ to ask "
+"for others' feedback on your ideas, either before you start developing, "
+"or when you make the pull request."
+msgstr ""
+
+#: ../../organizer/website/devmainsite.inc:10
+msgid "Current Layout"
+msgstr ""
+
+#: ../../organizer/website/devmainsite.inc:12
+msgid ""
+"The website lives in the `pyladies/pyladies`_, as well as many locations'"
+" websites, where ``www`` is the main website, and the other directories "
+"map to subdomains, more or less."
+msgstr ""
+
+#: ../../organizer/website/devmainsite.inc:14
+msgid ""
+"The website consists of just static HTML, CSS, and some client-side "
+"JavaScript.  We use mynt_ to convert Markdown_ files into HTML files "
+"(using Jinja2_ templates)."
+msgstr ""
+
+#: ../../organizer/website/devmainsite.inc:16
+msgid "The general layout for the ``www`` directory::"
+msgstr ""
+
+#: ../../organizer/website/devmainsite.inc:34
+msgid ""
+"When you first run ``mynt`` (detailed below), it will also create a "
+"``_site`` directory, where the complete site will be living.  This "
+"``_site`` directory is **not** committed within the repository."
+msgstr ""
+
+#: ../../organizer/website/devmainsite.inc:38
+msgid ""
+"The HTML files here are just *templates*.  You must first run ``mynt gen "
+"-f _site`` (:ref:`detailed below <usingmynt>`) to generate the HTML to "
+"see what will be on the website."
+msgstr ""
+
+#: ../../organizer/website/global.rst:72
+msgid "Using mynt"
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:3
+msgid "mynt_ is a simple static site generator written in Python."
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:5
+msgid ""
+"When you've added or edited content in any way, you can check out your "
+"changes by running the website locally.  To do so:"
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:8
+msgid "Set up your machine following the :ref:`setupenv` instructions."
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:9
+msgid ""
+"With the activated `virtualenv`_, make sure you're in the ``www`` "
+"directory, then run:"
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:16
+msgid ""
+"Copy the IP address provided once mynt has completed building the site. "
+"(It will say something like ``>> Serving at 127.0.0.1:8080``), then paste"
+" the IP address into the URL bar of a browser window and load it to view "
+"the site."
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:17
+msgid ""
+"To view any changes you make to the site code, type ``ctrl``+``c`` in the"
+" terminal to stop the local server, then run the two ``mynt`` commands "
+"from Step 2 again and refresh the browser window."
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:21
+msgid ""
+"If you wish to run the ``mynt`` server (aka ``mynt serve _site``) on a "
+"different port, use the ``-p`` option:  ``mynt serve _site -p 5050``."
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:23
+msgid ""
+"The ``mynt gen -f _site`` \"compiles\" the Markdown files into the Jinja2"
+" template files (and does some other linking magic for CSS, JavaScript, "
+"images, fonts, etc) and spits out the output into the ``_site`` "
+"directory.  This is actually what gets deployed (but is **not** committed"
+" to the repo!)."
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:25
+msgid ""
+"The ``mynt serve _site`` command runs a simple HTTP server for you to "
+"view local changes."
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:30
+msgid ""
+"**TIP!**  If you are having to stop the server, make your changes, run "
+"the two mynt commands many times, try the following:"
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:32
+msgid "Have two terminal windows/spaces open."
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:33
+msgid "In one terminal window/space:"
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:35
+msgid ""
+"Move to the ``www`` directory, and then run ``mynt gen -f _site`` (with "
+"your activated virtualenv) just once."
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:36
+msgid ""
+"Then run ``mynt watch -f _site`` - mynt will then watch for any changes "
+"saved to the file and re-run ``mynt gen -f _site`` for you."
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:37
+msgid "In the other terminal window/space:"
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:39
+msgid "Move into the ``www/_site`` directory."
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:40
+msgid ""
+"If running Python 2.x, run ``python -m SimpleHTTPServer 8080`` (or "
+"whatever port you'd like)"
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:41
+msgid ""
+"If running Python 3.x - to be honest, not sure if mynt supports running "
+"on Python 3, but if it does - run ``python -m http.server 8080``"
+msgstr ""
+
+#: ../../organizer/website/usingmynt.inc:42
+msgid ""
+"Now whatever changes you make & save, you'll just have to refresh your "
+"browser."
+msgstr ""
+
+#: ../../organizer/website/local.rst:2
+msgid "Creating your own Local Website"
+msgstr ""
+
+#: ../../organizer/website/local.rst:5
+msgid "Ready to setup your location's website? Great!"
+msgstr ""
+
+#: ../../organizer/website/local.rst:7
+msgid "目次"
+msgstr ""
+
+#: ../../organizer/website/local.rst:10
+msgid "Domain Setup"
+msgstr ""
+
+#: ../../organizer/website/local.rst:12
+msgid "*Domain admins:* currently `Esther Nam`_ and `Lynn Root`_"
+msgstr ""
+
+#: ../../organizer/website/local.rst:16
+msgid "Please **DO NOT** purchase your own separate domain!"
+msgstr ""
+
+#: ../../organizer/website/local.rst:18
+msgid ""
+"We will easily setup a subdomain on the ``pyladies.com`` site for you "
+"(e.g. ``nyc.pyladies.com``).  It's also possible if you'd prefer to use "
+"the ``pyladies.org`` namespace (e.g. ``nyc.pyladies.org``).  We can also "
+"do ``pyladies.com/nyc`` or ``pyladies.org/nyc`` too.  Your choice!"
+msgstr ""
+
+#: ../../organizer/website/local.rst:20
+msgid ""
+"If you are in a location that frequently uses other TLDs, e.g. "
+"``.co.uk``, please contact our domain administrators listed above."
+msgstr ""
+
+#: ../../organizer/website/local.rst:23
+msgid "Developing the Website"
+msgstr ""
+
+#: ../../organizer/website/local.rst:25
+msgid ""
+"You have two options: a :ref:`static` website, or a :ref:`dynamic` "
+"website.  Whichever you prefer!  And you can switch over any time.  It "
+"may be easier/quicker for you to start with a static website - then "
+"create a dynamic website when you have more time."
+msgstr ""
+
+#: ../../organizer/website/local.rst:30
+msgid "Static Website"
+msgstr ""
+
+#: ../../organizer/website/local.rst:32
+msgid ""
+"A static website is just HTML, CSS, and client-side JavaScript (exactly "
+"like the current ``www.pyladies.com`` site is set up).  It's great if you"
+" don't want a database or server-side logic; it's really easy to "
+"maintain."
+msgstr ""
+
+#: ../../organizer/website/local.rst:35 ../../organizer/website/local.rst:124
+msgid "Current Examples"
+msgstr ""
+
+#: ../../organizer/website/local.rst:37
+msgid ""
+"There are plenty of PyLadies locations that have simple static websites."
+"  Here are a couple:"
+msgstr ""
+
+#: ../../organizer/website/local.rst:39
+msgid ""
+"`remote.pyladies.com`_: `remote codebase "
+"<https://github.com/pyladies/pyladies/tree/master/remote>`_"
+msgstr ""
+
+#: ../../organizer/website/local.rst:40
+msgid ""
+"`boston.pyladies.com`_: `boston codebase "
+"<https://github.com/pyladies/pyladies/tree/master/boston>`_"
+msgstr ""
+
+#: ../../organizer/website/local.rst:41
+msgid ""
+"`nyc.pyladies.com`_: `nyc codebase "
+"<https://github.com/pyladies/pyladies/tree/master/nyc>`_"
+msgstr ""
+
+#: ../../organizer/website/local.rst:47
+msgid ""
+"If you're interested in the various static website tools out there, check"
+" out :ref:`tools`."
+msgstr ""
+
+#: ../../organizer/website/local.rst:49
+msgid "To setup your static website:"
+msgstr ""
+
+#: ../../organizer/website/local.rst:51
+msgid ""
+"Fork the `pyladies/pyladies`_ repository to your own (or your local "
+"PyLadies) GitHub account."
+msgstr ""
+
+#: ../../organizer/website/local.rst:53
+msgid ""
+"Create a directory within the main ``pyladies`` folder of the repository "
+"(on the same directory level as ``www`` and the other subdomains.)"
+msgstr ""
+
+#: ../../organizer/website/local.rst:54
+msgid "Develop the website within your new directory."
+msgstr ""
+
+#: ../../organizer/website/local.rst:55
+msgid ""
+"Be sure to add a ``README.md`` file that explains how to create the HTML "
+"files if you are using a static site generator (like `here`_)."
+msgstr ""
+
+#: ../../organizer/website/local.rst:62
+msgid ""
+"When making a pull request, please squash all your commits into one "
+"commit!  We like a clean history!  Here's a good how-to on `git rebase`_ "
+"to squash commits."
+msgstr ""
+
+#: ../../organizer/website/local.rst:67
+msgid ""
+"In your pull request - please include the desired subdomain namespace - "
+"e.g. ``nyc.pyladies.com``"
+msgstr ""
+
+#: ../../organizer/website/local.rst:71
+msgid ""
+"Be sure that the subdomain information in `www/config.yml`_ within the "
+"`pyladies/pyladies`_ repository matches the subdomain of your website!  "
+"Lots of linking-magic goes on."
+msgstr ""
+
+#: ../../organizer/website/local.rst:76
+msgid "Tools"
+msgstr ""
+
+#: ../../organizer/website/local.rst:78
+msgid ""
+"You can hand-write all your HTML files, but that's a bit of a pain.  Here"
+" are a list of tools that can help create your static website for you:"
+msgstr ""
+
+#: ../../organizer/website/local.rst:81
+msgid "Mynt"
+msgstr ""
+
+#: ../../organizer/website/local.rst:83
+msgid ""
+"`mynt`_ is a static site generator written in Python.  This is the tool "
+"that the main PyLadies site - `www.pyladies.com "
+"<http://www.pyladies.com>`_ uses."
+msgstr ""
+
+#: ../../organizer/website/local.rst:85
+msgid ""
+"You write the content of your site in `Markdown`_ format, design the "
+"layout and organization of the site (e.g. how the content will be "
+"presented) using `Jinja2`_ templates (another Python library), and "
+"edit/create your own themes with CSS.  Running ``mynt gen`` over your "
+"Markdown & CSS files and Jinja2 templates will create static HTML files "
+"that you can then view via the ``mynt serve`` command."
+msgstr ""
+
+#: ../../organizer/website/local.rst:88
+msgid "Pelican"
+msgstr ""
+
+#: ../../organizer/website/local.rst:90
+msgid ""
+"Extremely similar to `mynt`_, `pelican`_ is another static site generator"
+" written in Python.  It's the same process - write in `Markdown`_, "
+"organize via `Jinja2`_ tempaltes, and edit your theme with CSS."
+msgstr ""
+
+#: ../../organizer/website/local.rst:92
+msgid ""
+"Pelican does offer a bigger user base than `mynt`_, and therefore has "
+"many plugins and themes already setup to use."
+msgstr ""
+
+#: ../../organizer/website/local.rst:95
+msgid "Other Python Static Site Generators"
+msgstr ""
+
+#: ../../organizer/website/local.rst:97
+msgid "Some others if you're curious:"
+msgstr ""
+
+#: ../../organizer/website/local.rst:99
+msgid "`nikola`_"
+msgstr ""
+
+#: ../../organizer/website/local.rst:100
+msgid "`hyde`_"
+msgstr ""
+
+#: ../../organizer/website/local.rst:101
+msgid "`Frozen Flask`_"
+msgstr ""
+
+#: ../../organizer/website/local.rst:102
+msgid ""
+"`Sphinx`_ (generally used for project documentation but can easily be "
+"used for this)"
+msgstr ""
+
+#: ../../organizer/website/local.rst:103
+msgid ""
+"`mkdocs`_ (similar to Sphinx - generally used for project docs but easily"
+" used for this)"
+msgstr ""
+
+#: ../../organizer/website/local.rst:106
+msgid "Other Non-Python Static Site Generators"
+msgstr ""
+
+#: ../../organizer/website/local.rst:108
+msgid ""
+"It's totally okay to use a non-Python package(s) to help make your "
+"website.  Here's a list of common & widely-used ones:"
+msgstr ""
+
+#: ../../organizer/website/local.rst:110
+msgid "`Jekyll`_ (Ruby)"
+msgstr ""
+
+#: ../../organizer/website/local.rst:111
+msgid "`Octopress`_ (Ruby)"
+msgstr ""
+
+#: ../../organizer/website/local.rst:112
+msgid "`GitBook`_ (JavaScript)"
+msgstr ""
+
+#: ../../organizer/website/local.rst:113
+msgid "A `nice list of static site generators`_"
+msgstr ""
+
+#: ../../organizer/website/local.rst:119
+msgid "Dynamic Website"
+msgstr ""
+
+#: ../../organizer/website/local.rst:121
+msgid ""
+"A dynamic website goes beyond simple HTML/CSS/JavaScript.  A website "
+"written with `Django`_ or `Flask`_ is a dynamic website (and it's okay if"
+" you want to use a non-Python web framework, so long as it's supported by"
+" `Heroku`_)."
+msgstr ""
+
+#: ../../organizer/website/local.rst:126
+msgid ""
+"There are a few PyLadies locations that have built their own dynamic "
+"websites.  Here are a couple:"
+msgstr ""
+
+#: ../../organizer/website/local.rst:128
+msgid "`australia.pyladies.com`_"
+msgstr ""
+
+#: ../../organizer/website/local.rst:129
+msgid "`tw.pyladies.com`_"
+msgstr ""
+
+#: ../../organizer/website/local.rst:130
+msgid "`brasil.pyladies.com`_"
+msgstr ""
+
+#: ../../organizer/website/local.rst:136
+msgid ""
+"If you're interested in the various dynamic website frameworks out there,"
+" check out :ref:`frameworks`."
+msgstr ""
+
+#: ../../organizer/website/local.rst:138
+msgid "To setup your dynamic website:"
+msgstr ""
+
+#: ../../organizer/website/local.rst:140
+msgid ""
+"Create your own git repository (ideally under your local PyLadies GitHub "
+"account, registered under your ``pyladies.com`` email address)."
+msgstr ""
+
+#: ../../organizer/website/local.rst:141
+msgid "Create your website."
+msgstr ""
+
+#: ../../organizer/website/local.rst:142
+msgid ""
+"Create a free `Heroku account`_ with your PyLadies email address, if you "
+"haven't already.  Be sure to download the `Heroku toolbelt`_ for easy "
+"application setup and deployment."
+msgstr ""
+
+#: ../../organizer/website/local.rst:143
+msgid ""
+"When you're ready to deploy, ping the domain admins (above).  They will "
+"set up your PyLadies email address to an admin-managed Heroku app (which "
+"will give your PyLadies complete access for deployment) as well as setup "
+"all the DNS records needed."
+msgstr ""
+
+#: ../../organizer/website/local.rst:144
+msgid ""
+"Log into your Heroku account and follow the instructions for deploying "
+"(available under newly-created application that the admins made)."
+msgstr ""
+
+#: ../../organizer/website/local.rst:150
+msgid "Frameworks"
+msgstr ""
+

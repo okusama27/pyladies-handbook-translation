@@ -1,0 +1,257 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014-2016, PyLadies
+# This file is distributed under the same license as the PyLadies Handbook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyLadies Handbook 2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-08 19:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../global/contact.rst:4 ../../global/index.rst:7
+msgid "Contact"
+msgstr ""
+
+#: ../../global/contact.rst:7
+msgid "Points of Contact"
+msgstr ""
+
+#: ../../global/contact.rst:9
+msgid ""
+"`Our general email`_  is the best place to shoot any questions you may "
+"have."
+msgstr ""
+
+#: ../../global/contact.rst:13
+msgid ""
+"If you have more casual questions, IRC is one of the best places to "
+"start.  You can usually find several of the main PyLadies points of "
+"contact in #pyladies."
+msgstr ""
+
+#: ../../global/contact.rst:16
+msgid "Online Community"
+msgstr ""
+
+#: ../../global/contact.rst:18
+msgid ""
+"Whether or not you’re part of a local group, the PyLadies community "
+"online welcomes you the IRC."
+msgstr ""
+
+#: ../../global/contact.rst:21
+msgid "IRC"
+msgstr ""
+
+#: ../../global/contact.rst:23
+msgid ""
+"We have an IRC channel ``#pyladies`` that is on ``irc.freenode.net``. "
+"Instructions on how to chat in #pyladies IRC are `here`_."
+msgstr ""
+
+#: ../../global/contact.rst:27
+msgid ""
+"Quite a few well-known men and women in the Python community participate "
+"there and try to keep it a friendly place. Ask Python questions there, "
+"talk about what your local group is up to, or just say hi."
+msgstr ""
+
+#: ../../global/contact.rst:29
+msgid ""
+"Anyone can plan and host virtual meetups in IRC #pyladies. You should "
+"host one! Just tell one of the ops to update the topic with info about "
+"your meetup. See the “Promotion” section for further details about how we"
+" can help spread word."
+msgstr ""
+
+#: ../../global/contact.rst:31
+msgid ""
+"You can also create #pyladies-whatever IRC channels for your country, "
+"language, interest group, etc. Ask sandpy for help registering your "
+"channel under the #pyladies namespace."
+msgstr ""
+
+#: ../../global/contact.rst:34
+msgid "Social Media"
+msgstr ""
+
+#: ../../global/contact.rst:36
+msgid ""
+"We have a `Facebook Community`_ page and `Google+ Community`_ page as "
+"well were all PyLadies and PyLadies-allies are welcome to post and "
+"participate in discussions.  We also tweet from the official `PyLadies "
+"Twitter`_ handle."
+msgstr ""
+
+#: ../../global/faqs.rst:2
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../../global/faqs.rst:5
+msgid "Can men attend local PyLadies group events?"
+msgstr ""
+
+#: ../../global/faqs.rst:7
+msgid ""
+"It’s up to the local organizer, and usually explicitly stated within an "
+"event's description Generally, groups will hold some women-only events  "
+"as well as events for both genders (either women and +1 guests, or anyone"
+" who wants to attend)."
+msgstr ""
+
+#: ../../global/faqs.rst:11
+msgid "Is there anything like PyLadies specifically for men?"
+msgstr ""
+
+#: ../../global/faqs.rst:13
+msgid ""
+"There doesn’t seem to be a burning need for a PyLadies for Men ;) That "
+"said, you're welcome to start any group that fits your needs or concerns."
+msgstr ""
+
+#: ../../global/faqs.rst:15
+msgid ""
+"One enterprising gent has printed “PyLaddies” shirts, and there is an IRC"
+" channel on Freenode, #pygents, for the men who love PyLadies =)"
+msgstr ""
+
+#: ../../global/faqs.rst:18
+msgid "Can I use the PyLadies logo and graphics for any purpose?"
+msgstr ""
+
+#: ../../global/faqs.rst:20
+msgid "Yes! But please read our :ref:`logo usage policy <logo-policy>`."
+msgstr ""
+
+#: ../../global/faqs.rst:22
+msgid ""
+"TL;DR is that any of the graphics in our `PyLadies assets repo`_ can be "
+"used for local group promotion and/or to show your support."
+msgstr ""
+
+#: ../../global/faqs.rst:24
+msgid ""
+"Logos used with the intention to sell merchandise, please seek permission"
+" from the `PyLadies leadership`_."
+msgstr ""
+
+#: ../../global/faqs.rst:26
+msgid ""
+"There is \"official\" merchandise sold - with proceeds going towards "
+"PyLadies - at our own `spreadshirt site`_."
+msgstr ""
+
+#: ../../global/faqs.rst:29
+msgid "Can transgender women be PyLadies?"
+msgstr ""
+
+#: ../../global/faqs.rst:31
+msgid ""
+"Anyone who considers herself a woman and does Python is a PyLady/Python "
+"lady. We support all women, whether female by birth or not."
+msgstr ""
+
+#: ../../global/faqs.rst:33
+msgid ""
+"If the idea of trans people is new to you, you might want to take a look "
+"at `this fantastic illustrated book about gender "
+"<http://www.thegenderbook.com>`_, `this comic "
+"<http://www.roostertailscomic.com/?p=1495>`_, or any of the many other "
+"introductions to trans issues on the internet."
+msgstr ""
+
+#: ../../global/faqs.rst:36
+msgid "Is your goal to segregate by gender?"
+msgstr ""
+
+#: ../../global/faqs.rst:38
+msgid ""
+"No! PyLadies and local PyLadies groups are about making the Python "
+"community explicitly welcoming and accessible to women."
+msgstr ""
+
+#: ../../global/faqs.rst:40
+msgid ""
+"Women who wouldn’t otherwise attend a Python user group meeting often "
+"attend local PyLadies group events, as a gateway to getting involved with"
+" Python programming as a beginner, or getting more involved in the Python"
+" community as an intermediate/advanced developer."
+msgstr ""
+
+#: ../../global/faqs.rst:44
+msgid "What if my question isn’t answered here?"
+msgstr ""
+
+#: ../../global/faqs.rst:46
+msgid ""
+"Ask in IRC in the official ``#pyladies`` channel on `freenode <irc>`_ or "
+"send an `email`_."
+msgstr ""
+
+#: ../../global/index.rst:2
+msgid "Global PyLadies Organization"
+msgstr ""
+
+#: ../../global/index.rst:4
+msgid ""
+"The global PyLadies community has no formal organization behind it; no "
+"board of directors, no appointed leadership.  We found that PyLadies "
+"growth and success stems from being decentralized and non-bureaucratic."
+msgstr ""
+
+#: ../../global/index.rst:9
+msgid ""
+"We do have a few point people that can answer and address general, or "
+"non-location specific PyLadies questions.  If you are not a local "
+"PyLadies leader, please check out :doc:`contact`.  If you are a local "
+"PyLadies leader, please take a look at :doc:`../organizer/global/index`."
+msgstr ""
+
+#: ../../global/policies.rst:2
+msgid "Policies"
+msgstr ""
+
+#: ../../global/policies.rst:4
+msgid ""
+"For policies from a local organizer's prospective, please check out "
+":doc:`../organizer/global/policies`."
+msgstr ""
+
+#: ../../global/policies.rst:8
+msgid "Trademark"
+msgstr ""
+
+#: ../../global/policies.rst:10
+msgid ""
+"PyLadies and the PyLadies logo are trademarks of the Python Software "
+"Foundation. For logo usage guidelines, please read :doc:`../misc/logo`, "
+"and for trademark usage, please read :doc:`../misc/trademark`."
+msgstr ""
+
+#: ../../global/policies.rst:13
+msgid "Code of Conduct"
+msgstr ""
+
+#: ../../global/policies.rst:15
+msgid ""
+"All PyLadies events (Meetups, conference lunches, etc), online spaces "
+"(IRC, Facebook, etc) are beholden to the PyLadies :doc:`../coc` (the "
+"CoC)."
+msgstr ""
+
+#: ../../global/policies.rst:17
+msgid ""
+"Please read :doc:`../member/reporting` for how to appropriately report "
+"any CoC violations you may have encountered."
+msgstr ""
+
