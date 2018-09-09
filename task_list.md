@@ -1,21 +1,32 @@
 # 進捗管理
 
-## 翻訳すべきファイル
+## 翻訳
 
-上から順に本家のページ順となります。
-
-- [ ] intro.po
 - [ ] index.po
 - [ ] overview.po
-- [ ] about.po 同じ内容がoverview.poの中に含まれている
 - [ ] prospective.po
 - [ ] organizer.po
 - [ ] member.po
-- [ ] coc.po
 - [ ] global.po
+- [ ] intro.po
 - [ ] misc.po
 - [ ] changelog.po
+- [ ] about.po
+- [ ] coc.po
 
+## レビュー
+
+- [ ] index.po
+- [ ] overview.po
+- [ ] prospective.po
+- [ ] organizer.po
+- [ ] member.po
+- [ ] global.po
+- [ ] intro.po
+- [ ] misc.po
+- [ ] changelog.po
+- [ ] about.po
+- [ ] coc.po
 
 ## htmlファイルの構造
 
